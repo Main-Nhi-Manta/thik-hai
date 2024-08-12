@@ -6,21 +6,23 @@ import re
 response = requests.get('https://fox.toxic-gang.xyz/tata/channels')
 input_json = response.json()
 
+# Extract the relevant data from the JSON response
+data = input_json['data']
+
 # Function to perform replacements
 def replace_urls(channel):
     if 'initialUrl' in channel:
         # Replace delta and bpweb with bpprod and tatasky.akamaized.net with catchup.akamaized.net
-        url = channel['initialUrl'].replace('delta', 'bpprod').replace('bpweb', 'bpprod').replace('tatasky.akamaized.net', 'catchup.akamaized.net')
+        url = channel['initialUrl'].replace('delta', 'bpprod').replace('bpwta', 'bpprod').replace('tatasky.akamaized.net', 'catchup.akamaized.net')
         # Replace <number>.akamaized.net with catchup.akamaized.net preserving the number
         url = re.sub(r'(\d+)\.akamaized\.net', r'\1catchup.akamaized.net', url)
         # Replace the ending with xxx.mpd
-        url = re.sub(r'[a-zA-Z0-9]+\.mpd$', 'xxx.mpd', url)
+        url = re.sub(r'[a-zA-Z0-9]+\.mpd$', 'dtvhindi.mpd', url)
         channel['initialUrl'] = url
     return channel
 
 # Replace URLs in all channels
-channels = input_json['data']
-customized_channels = [replace_urls(channel) for channel in channels]
+customized_channels = [replace_urls(channel) for channel in data]
 
 # Prepare the final output format
 output_json = {}
