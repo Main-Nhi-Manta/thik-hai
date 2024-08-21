@@ -3,337 +3,257 @@
     "clearkey": "9b8446431f885eb7a7d4ad0ef549a3bf:efcfb5a89d8c17ec5086e9cbf85c944b",
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_221/output/dtvhindi.mpd"
   },
-  "2": {
-    "clearkey": ":",
-    "url": "https://bpprod47catchup.akamaized.net/out/i/dtvhindi.mpd"
-  },
-  "3": {
-    "clearkey": "01595e1675f35902ba4e0bc656e69775:1ac8494d9ae0b403f097a01190fd1213",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_284/output/dtvhindi.mpd"
-  },
-  "6": {
-    "clearkey": "3f7dd863365057b59b77b9af1b6bff3c:f2fc1256c49d5ba49fc21f7a0f271e4d",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_291/output/dtvhindi.mpd"
-  },
-  "7": {
-    "clearkey": "75e5a2ff0aa25c8caffb8a65072624a9:446f04efba33730d6bfea4d7aeffbe8c",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_276/output/dtvhindi.mpd"
-  },
-  "8": {
-    "clearkey": "825840473d7b5d1b8daaea68322ed01f:cdf4f52f7a8e73a0bd6f02c53709fdc2",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/dtvhindi.mpd"
-  },
-  "9": {
-    "clearkey": "35c9669456c953b7be3bd2750b9fcf02:5c5d78b34da78ac2991a78388a2caec8",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_277/output/dtvhindi.mpd"
-  },
   "10": {
-    "clearkey": "d390f1f61115540a94c4f563f5770393:f289a1e2002a0cd03a8a72c23516b27f",
+    "clearkey": "b66b3ff9d58a5152a58b7f3b784ed615:809376daf1e589dbe2e433c2ee9c9c05",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_318/output/dtvhindi.mpd"
-  },
-  "11": {
-    "clearkey": "d026d3aa91d951cca822ffb79461ed94:0603431d12d489a027c73861eab2a94a",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_290/output/dtvhindi.mpd"
-  },
-  "12": {
-    "clearkey": "50d1a224cb85568c990b20aa30214f99:dfd04aa36f763a8d1df2fafe1bf280cc",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_380/output/dtvhindi.mpd"
-  },
-  "13": {
-    "clearkey": "e99ec9f433dc57bca7fa9d9e7a5df43d:bd083bc2f4c3cde035d121ff2e25c8ef",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_280/output/dtvhindi.mpd"
-  },
-  "14": {
-    "clearkey": "1a5a6a30ae48502ba284bb35384350b8:d035ef602cee841c7b3b52d1f478df3f",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_360/output/dtvhindi.mpd"
-  },
-  "15": {
-    "clearkey": "6c6ed7919e4b539886d421823ece6b5d:0dd5e7bfaf0f97ca2f19d33616cf961f",
-    "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_300/output/dtvhindi.mpd"
-  },
-  "17": {
-    "clearkey": "4dce4c6f478d596eb88e05bd499fd23b:14fcdf49905fa808cf662318ff5c3f6f",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_279/output/dtvhindi.mpd"
-  },
-  "20": {
-    "clearkey": "0dab7fb6585b5a3c89d6c23a396016b8:6214b4adae7f122d1839ba401883d571",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_389/output/dtvhindi.mpd"
-  },
-  "22": {
-    "clearkey": ":",
-    "url": "https://bpprod31catchup.akamaized.net/out/i/dtvhindi.mpd"
-  },
-  "23": {
-    "clearkey": "4168b507cb6a5ebdb8307d41bd49cfb1:e007d13c648b2de30d994cd284e0f9fc",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_286/output/dtvhindi.mpd"
-  },
-  "24": {
-    "clearkey": "7b9264332d895c1ba5e1b959193965ba:53c24773594181cd2344a2e393771806",
-    "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/dtvhindi.mpd"
-  },
-  "25": {
-    "clearkey": "55735b68f1595a1dbf4bf9a38a467fa0:397024e1e7a57a00372b5801e18b3135",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_319/output/dtvhindi.mpd"
-  },
-  "26": {
-    "clearkey": "5515ed11849958818ff88f7d6ae60e45:fa3f1eaa0e6964f4ce184c50f1ad3c88",
-    "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_283/output/dtvhindi.mpd"
-  },
-  "27": {
-    "clearkey": "e8cf823ccacf5eb5bce0683f8188fc89:a2704c2feceaf56af5b717bc61796ff8",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_331/output/dtvhindi.mpd"
-  },
-  "30": {
-    "clearkey": "cd90a76a9e8b5a89a100683f50927ae6:3018cb5d3bcd9643f2d07679c2256403",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_361/output/dtvhindi.mpd"
-  },
-  "31": {
-    "clearkey": "26b7fad17ee15f66b2e41c29d4146c0c:9af09009ea80b138deffdb2b246fcea5",
-    "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_320/output/dtvhindi.mpd"
-  },
-  "32": {
-    "clearkey": "bc5bbab15b23547282106dd5a6828eed:7b7c2e93cf3f7dcbd9e38cccd08ca5ed",
-    "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_301/output/dtvhindi.mpd"
-  },
-  "33": {
-    "clearkey": "6f4c38817b89521b9e4210a88d58ab17:3c92de4ea5f20fb98bea053aa6265b43",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_316/output/dtvhindi.mpd"
-  },
-  "34": {
-    "clearkey": "dc7b8d38dee451629fa5cb39268c4320:b298ebbf37d421e5a97aa1453c4a4192",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_285/output/dtvhindi.mpd"
-  },
-  "35": {
-    "clearkey": "f3fb1cd3dc2e504182cde59ac590fd3f:45ed25c5b21b08a44e145f2342f995c5",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/dtvhindi.mpd"
-  },
-  "36": {
-    "clearkey": "8397fbbf6d6c59bf8c29d25d48b78e4e:d433df3c062ca1897bfcc2e1c7e368b3",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_309/output/dtvhindi.mpd"
-  },
-  "37": {
-    "clearkey": ":",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_347/output/dtvhindi.mpd"
-  },
-  "38": {
-    "clearkey": "e915b36e229a59eba81d4c845fb84e72:35b5fa542f559f78aa3011b8ec47855b",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_341/output/dtvhindi.mpd"
-  },
-  "39": {
-    "clearkey": "bd38021388c7519ca741cf29b4a34012:fd694ac2aba449108e0e54b4790bddf7",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_355/output/dtvhindi.mpd"
-  },
-  "40": {
-    "clearkey": "487a7dea416a536e8bb8969c5da28dd1:14c541db08d3b4fb82ae1a7da514ad4a",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/dtvhindi.mpd"
-  },
-  "41": {
-    "clearkey": "4100a38c3dd450d385900106114031a1:3dc41f96077cb5795c02af498546d22c",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_337/output/dtvhindi.mpd"
-  },
-  "43": {
-    "clearkey": "19c51d7aa742540d95344f3e53016ec8:a2f949aadff6b857a273621e423b4232",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_342/output/dtvhindi.mpd"
-  },
-  "44": {
-    "clearkey": "801c50937ace5c3386efbcc04dafa129:5909419972088738b86a5891d84cef71",
-    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_349/output/dtvhindi.mpd"
-  },
-  "45": {
-    "clearkey": "4cbc5e75e0fd57c28a6cedf7171231f5:b1954b430fd6f9f1bcc60f9eaa006ae5",
-    "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/dtvhindi.mpd"
-  },
-  "47": {
-    "clearkey": "2afb710387e05b37a8cd169f59972841:c28c024e2e9d09590dbe6644e08c5941",
-    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_371/output/dtvhindi.mpd"
-  },
-  "48": {
-    "clearkey": "495fff089020550eaadf46724d28f1ab:c877d8dbe7d25c78b85c7a8f04be3b3c",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_307/output/dtvhindi.mpd"
-  },
-  "49": {
-    "clearkey": "a9d291eec10f5dd3b87ee6cf41bca94a:15c021c6b1a692aab4e135de467da496",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_298/output/dtvhindi.mpd"
-  },
-  "51": {
-    "clearkey": "86ceebf5b03b593089eea1563d1ac1e1:980a32184dc910aa408494111063d656",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_351/output/dtvhindi.mpd"
-  },
-  "52": {
-    "clearkey": "596a33a518ab5743a8e02dab5afd6b1d:3d027f41ddca6b5d1db3820430dcc397",
-    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/dtvhindi.mpd"
-  },
-  "53": {
-    "clearkey": "4c010c628005584e926ce45c1b609938:717d4e7376d56ba8f991d8e929024af6",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_384/output/dtvhindi.mpd"
-  },
-  "54": {
-    "clearkey": "7165084d53b050f792254455b7432972:863cac9d3ba73e781c84d8a01c762fd4",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_274/output/dtvhindi.mpd"
-  },
-  "55": {
-    "clearkey": "48395a4fcd8c5213adea360dc7cb814c:236fae4224c4986bb3e680f4d91fcdd5",
-    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_366/output/dtvhindi.mpd"
-  },
-  "56": {
-    "clearkey": "eb78c4c0245c546bb4928cd7e76a949c:aa742752b12b746e288093157a8a96e6",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_386/output/dtvhindi.mpd"
-  },
-  "58": {
-    "clearkey": "8626f0dd93ad5c2b91285880900ce21e:60460b51cb10d24f0a3a7470f8afa375",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_373/output/dtvhindi.mpd"
-  },
-  "60": {
-    "clearkey": "b0cd1dc6d9ad523097c90ae363dac68a:b38b5ba09484905aa7e221a3e497164a",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_376/output/dtvhindi.mpd"
-  },
-  "61": {
-    "clearkey": "1b87a22beb145103adc5cd3f683cb2bf:5f9c1f4b39043dd347f20275ab2ae09a",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_385/output/dtvhindi.mpd"
-  },
-  "63": {
-    "clearkey": "e56e3a65d5e85455b8ee880ec1da5893:fe15b08c12154daf6506e8c2ccc2937d",
-    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/dtvhindi.mpd"
-  },
-  "64": {
-    "clearkey": "daedd4cce91f5e9b9fd71ad9c249d8eb:5750525e04a29093e8cf5ae78cff1e95",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_387/output/dtvhindi.mpd"
-  },
-  "65": {
-    "clearkey": "9f7923615dcc5ef0a089cb6cf3db96a8:9cf783eeb4a72248853df1d647d19131",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_377/output/dtvhindi.mpd"
-  },
-  "66": {
-    "clearkey": "6b1da1af518755f48d5887f59173e974:5e45032bef3b75ba120d59cd2b93824e",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_374/output/dtvhindi.mpd"
-  },
-  "68": {
-    "clearkey": "e8fdb31484e1594fbf952abc7bbcf825:1c883fe9724d1e5afe4765cefb1c300a",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_375/output/dtvhindi.mpd"
-  },
-  "71": {
-    "clearkey": "70275da590635d03802d2064aceb8900:50ba269f501838804447aa3b5ef2f7f3",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_396/output/dtvhindi.mpd"
-  },
-  "72": {
-    "clearkey": ":",
-    "url": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-380287/dtvhindi.mpd"
-  },
-  "73": {
-    "clearkey": "485e647bf46d59599633cbe295a744ab:2f537df0acef4f65eff9523f9ff29bf6",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_378/output/dtvhindi.mpd"
-  },
-  "78": {
-    "clearkey": "14258d110afb567da03824b462fcb33b:96a693d06bf0bf74f75973fed14d7535",
-    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/dtvhindi.mpd"
-  },
-  "79": {
-    "clearkey": "bbfae31dc5c35b9ea48c0dc4859a443c:0dbf800274740c251a17b64b01ea9043",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_352/output/dtvhindi.mpd"
-  },
-  "80": {
-    "clearkey": "eadf9fcb4b5a5f86bc73a2b57084a086:ef1d4e629b04ba0ffe4ed2a3d723c827",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_305/output/dtvhindi.mpd"
-  },
-  "81": {
-    "clearkey": "bd1331d221515c3abae34f315f4fb84b:bb0c91311b3c84eff5dc9ea9dfc4aae4",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/dtvhindi.mpd"
-  },
-  "83": {
-    "clearkey": "488afb4e76c853c78cd3de4ca7719f01:ff988e293b9b98c9e80db934330acd5a",
-    "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_296/output/dtvhindi.mpd"
-  },
-  "85": {
-    "clearkey": "811877317f4050918b464e2f718065e0:29f34fc40d211382caf0b9b468ff687d",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_229/output/dtvhindi.mpd"
-  },
-  "87": {
-    "clearkey": "a42afcd00b5a56eca6f3d729e6a0a49b:862e7d105899a07e783f9ec9288032eb",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_244/output/dtvhindi.mpd"
-  },
-  "88": {
-    "clearkey": "e1739f3de82b5219852533e8b7a81523:65618fe62865cce35a152af427785169",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_163/output/dtvhindi.mpd"
-  },
-  "90": {
-    "clearkey": "07eb65891fa15ec48d99fecbe8cc0875:e3ef134d11e5c46686128c9649c00ed3",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_162/output/dtvhindi.mpd"
-  },
-  "91": {
-    "clearkey": "49e598ac1eb650b79e259667e9833174:4504a8dacc9255924f6826d5bf6a5438",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_246/output/dtvhindi.mpd"
-  },
-  "92": {
-    "clearkey": "432a20033e105d9a91ca917c18aebf44:ccf7caf134565f3b1df37084b68650ec",
-    "url": "https://bpweb7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_245/output/dtvhindi.mpd"
-  },
-  "93": {
-    "clearkey": "f7043bd1997e55fbbfc275bbd2e3bf45:602a237ac2b93fb54f6c7fb947c14a6d",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_110/output/dtvhindi.mpd"
-  },
-  "95": {
-    "clearkey": "71a6991597475207915a86c0c0739350:0701874de219ebba0ba46ce95cf04bf3",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_192/output/dtvhindi.mpd"
-  },
-  "96": {
-    "clearkey": "191ce43ad77a57e781d97163581a2903:0722440e76081c7a82ce43eed4e65e6e",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_164/output/dtvhindi.mpd"
-  },
-  "97": {
-    "clearkey": "96a68295c8f652aab1bf615830e0501f:bede5523cd1dbf049b3555a9676b9d1e",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_364/output/dtvhindi.mpd"
-  },
-  "98": {
-    "clearkey": "f6d1d4f160c85e74a929d24c8bdd9f7a:d30c2e7c8dc7bd7daf278d6e8ed72997",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_238/output/dtvhindi.mpd"
-  },
-  "99": {
-    "clearkey": "9fa8edd73ec65c0fba340dbc179b15d0:16f5c0e21a5609d9e4a292c41be5a927",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_234/output/dtvhindi.mpd"
   },
   "100": {
     "clearkey": "960f1ca3dd6d50479f454c2b707dbb69:e13fad4c76033450477d511bf8497985",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_205/output/dtvhindi.mpd"
   },
+  "1000": {
+    "clearkey": "1f3cf7b3293f54c5852e8ae6c9c69095:2cf00c4deab4cadfcd2ae2920d38377f",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1827/output/dtvhindi.mpd"
+  },
+  "1002": {
+    "clearkey": ":",
+    "url": "https://server.thelegitpro.in/saileelatv/saileelatv/index.m3u8"
+  },
+  "1003": {
+    "clearkey": "3da0936b81355a94b2f716977696bee0:fc84b257a9d2ca35f409b4486f12d404",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1829/output/dtvhindi.mpd"
+  },
+  "1004": {
+    "clearkey": "b01f062c5c9243059204b361123678fb:fa7103f124f2b29bf0a4e0c3dca4df21",
+    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
+  },
+  "1005": {
+    "clearkey": "ccfb4918b1864491a1672c5df94857a6:3426d6b2dc5b3888b8c1dfc2d47cbf73",
+    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
+  },
+  "1006": {
+    "clearkey": "d30658dae8284ba1936568cab4dba1a6:425645793c6f46dd43c5937e79ccb880",
+    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
+  },
+  "1007": {
+    "clearkey": "6bd64f4be838483f96531c699902686e:17e9c9d4c333e544554a06ac530877b5",
+    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
+  },
+  "1008": {
+    "clearkey": "0d5cf9203a5a4cc79199d627c9c75f1f:720a6d5715d1ef228d07f95c4db23adf",
+    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
+  },
+  "1009": {
+    "clearkey": "19c7d24c5d6f51c3add5b702d40ce37a:e998942eccda95ccf2f144f60ec97b2e",
+    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1837/output/dtvhindi.mpd"
+  },
   "101": {
     "clearkey": "d400cd8167ac5c818a0a226115db2b0f:93918e11263cc803abda3c350f6fc89e",
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_214/output/dtvhindi.mpd"
+  },
+  "1010": {
+    "clearkey": "69006d7337fb5069b51a89dd6d387f7c:513f06ab2a152939c9a22ca05906efeb",
+    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1836/output/dtvhindi.mpd"
+  },
+  "1018": {
+    "clearkey": ":",
+    "url": "https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8"
+  },
+  "1019": {
+    "clearkey": "90784876590b42efa1732770100ae411:04947be5d5fcb5152e517b3d88a45620",
+    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
   },
   "102": {
     "clearkey": "540d113aceb55a8e927a104dad390626:0dc0dbaa8ad6a1a234a7e2704e2fea9c",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_249/output/dtvhindi.mpd"
   },
+  "1023": {
+    "clearkey": "c101049be3624d73bc55f8178307bfca:ec6106ead7a78125c2971730880d6712",
+    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
+  },
+  "1027": {
+    "clearkey": "2c489b4502665727aacf4c890cccbde8:681590a7cc2dfad2bcda7d0295c3f117",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1849/output/dtvhindi.mpd"
+  },
   "103": {
-    "clearkey": "5f4828b13b7552df95d9fa1c78de7700:5eb1d1daa4e93380534963a7cd39ebb2",
+    "clearkey": "57236b657cc355b78168a7c3d9aa3bbd:64fa6512ab32c43b06cff54aa23ab62e",
     "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_105/output/dtvhindi.mpd"
+  },
+  "1031": {
+    "clearkey": "4d1ccdd7cc7553ec9def2e74534863cb:6d1a374f5d98b609aabceb7789c893a9",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1842/output/dtvhindi.mpd"
+  },
+  "1033": {
+    "clearkey": "4c66aef18fe85ad98f8acd5d26f3876a:e7907a5a20766127d8fe0742fe366828",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/dtvhindi.mpd"
   },
   "104": {
     "clearkey": "f250ba2eb5255e6fa22b66587abc854d:40b5064e7c339954ca2778a6b8cc03bb",
     "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_148/output/dtvhindi.mpd"
   },
+  "1040": {
+    "clearkey": ":",
+    "url": "https://jansetutataplay.akamaized.net/hls10/jansetunews/index.m3u8"
+  },
+  "1042": {
+    "clearkey": ":",
+    "url": "https://blesstvtataplay.akamaized.net/blesstv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+  },
+  "1043": {
+    "clearkey": ":",
+    "url": "https://ott.livelegitpro.in/nakshatradigital/nakshatradigital/video.m3u8"
+  },
+  "1044": {
+    "clearkey": ":",
+    "url": "https://globalindia.akamaized.net/globalindiatv/globalindiatv/index.m3u8"
+  },
+  "1045": {
+    "clearkey": "4c255dbbea475d7ba59c961eea1e752f:4e564de84250626841213989d54975cb",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1865/output/dtvhindi.mpd"
+  },
   "105": {
     "clearkey": "947b4cc2fd8d50188a1667435d30a94f:50dac41430990a032e0ac42beb96d14f",
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_239/output/dtvhindi.mpd"
+  },
+  "1051": {
+    "clearkey": "d64825c492085838a1a4d9eb3087efff:98ae780f0c569d4d6fd5b7fe88230549",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1867/output/dtvhindi.mpd"
+  },
+  "1056": {
+    "clearkey": "0282c25f344c57a483e19b78333dc7c4:b6ef024bfd68e5e7b03be59552826be7",
+    "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1874/output/dtvhindi.mpd"
+  },
+  "1058": {
+    "clearkey": ":",
+    "url": "https://cable14tataplay.akamaized.net/aajkikhabar/aajkikhabar/index.m3u8"
+  },
+  "1059": {
+    "clearkey": ":",
+    "url": "https://cable12tataplay.akamaized.net/indiannews/index.m3u8"
   },
   "106": {
     "clearkey": "b31f1be8cc1c5e998bb53e75b0bd6e20:4c175e83c5682f7f09e9e94662652a67",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_149/output/dtvhindi.mpd"
   },
+  "1060": {
+    "clearkey": ":",
+    "url": "https://cable15tataplay.akamaized.net/livepunjabi/livepunjabi/index.m3u8"
+  },
   "107": {
     "clearkey": "d86fa3880e3b5f989f7744de9a49ca2a:2209ff9db0c1c56ddbd7b388400fd6aa",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_211/output/dtvhindi.mpd"
   },
+  "1070": {
+    "clearkey": "f0ff467c0efc4dfea225150c4a4747f2:767ebb6cdf7bab364b967d167558d714",
+    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
+  },
+  "1073": {
+    "clearkey": "d8d08a1fbd30521e8641a2b33f26deb6:31ee243ef338353e8b42b82905e4d52d",
+    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1887/output/dtvhindi.mpd"
+  },
+  "1074": {
+    "clearkey": "66544328f46d52968fab9a50aa1ea008:6891087cb2b0b17b5821e7ae65eff53e",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1889/output/dtvhindi.mpd"
+  },
+  "1075": {
+    "clearkey": "fa30b7c9712f5864b9240d4340a7a88a:5ad163915be90a248ce1b6b6c4890820",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1888/output/dtvhindi.mpd"
+  },
+  "1076": {
+    "clearkey": "9865aff8e80d58128aca6a763499c44a:3135f709f078074fe4dfaf760db5ba92",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1890/output/dtvhindi.mpd"
+  },
+  "1077": {
+    "clearkey": "c76bbd3415245638a75c7951db0057dc:081b374ec56c95af2b6d349b319eb588",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1891/output/dtvhindi.mpd"
+  },
+  "1078": {
+    "clearkey": "8952cc90e74e59c49ecd0b65a01bea16:e95bbc9fc782362f746d8d99d319f4a1",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1892/output/dtvhindi.mpd"
+  },
+  "1079": {
+    "clearkey": "7840d753b71a45f3847e89b09714fef6:9ed8838b3d1cf97f3b567db508fc6dcc",
+    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
+  },
   "108": {
-    "clearkey": "0901f59189545edeb209019b6b036c0b:6d423bfc9cbee5014397f9e40264a207",
+    "clearkey": "c81a81d4fd25550098c4419878b11134:237073df69ef9eb0326b1766c131f726",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_157/output/dtvhindi.mpd"
+  },
+  "1080": {
+    "clearkey": ":",
+    "url": "https://ubangla.akamaized.net/hls/ubangla.m3u8"
+  },
+  "1082": {
+    "clearkey": "ede46383ffb55de9a914d6962ce47a8a:385a71c9b9ce5a5d55abf8580b312915",
+    "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1896/output/dtvhindi.mpd"
+  },
+  "1083": {
+    "clearkey": "35c36dec50a252e58d82eb448b728e95:bbe8e1c95749cdacf66d777ea845391c",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1895/output/dtvhindi.mpd"
+  },
+  "1084": {
+    "clearkey": "0ac37cd6ae8e509e8258f47a09fee78d:896f4dc5aedfc76f5636ba9a6312b2b8",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1897/output/dtvhindi.mpd"
+  },
+  "1097": {
+    "clearkey": "7677407a65315ce39e0edc741f20bc03:d883b9e3fb99ba545cdd2d1478c5ef93",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1908/output/dtvhindi.mpd"
+  },
+  "1099": {
+    "clearkey": "d32d8d181ce05c79a1c8e2cdca7f7037:a75b97069937c722ac85ff7f6a31e860",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1910/output/dtvhindi.mpd"
+  },
+  "11": {
+    "clearkey": "b096278e85425a11b30cacfa838b6e93:3a85ae858f14d6160d28cd94dc57f1c8",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_290/output/dtvhindi.mpd"
+  },
+  "1100": {
+    "clearkey": "69dcb277deba59d0948643ad798a1216:0be2a04d8e4852f41cba4ab48031a932",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1909/output/dtvhindi.mpd"
+  },
+  "1101": {
+    "clearkey": "53b05b54fe275beb9f6cc2bc5b0b2729:ddadd2935a31b7c0cfc98e67c4ab4f2b",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1914/output/dtvhindi.mpd"
+  },
+  "1102": {
+    "clearkey": "aaab005c654b58e8b034e09348d4b818:d71e776ca19ed7e30853daa967165a70",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1915/output/dtvhindi.mpd"
+  },
+  "1103": {
+    "clearkey": "8a5ca0cc92975c56a62071d5d5b50a61:755ea6af0ccc449aa5da6ded210a8d4a",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1916/output/dtvhindi.mpd"
   },
   "111": {
     "clearkey": "12df42d48d5a5cb785367c23755efcbe:e82d4d1eaf46e959ff3f34f15bc3a015",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_391/output/dtvhindi.mpd"
   },
+  "1115": {
+    "clearkey": "34de2a11cb4b55e8a76ba6fda8464859:adbbcd0c3946a394406ecc16262e2509",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1918/output/dtvhindi.mpd"
+  },
+  "1118": {
+    "clearkey": "9968c85a818d5e1780819423ef18303e:c2f3933b9dc451a8acad13398b0a7512",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1920/output/dtvhindi.mpd"
+  },
+  "1124": {
+    "clearkey": "ac3a927cf5895712b8b7f489224470cc:a318483858dd915d8eebd9bb643515a1",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1922/output/dtvhindi.mpd"
+  },
   "113": {
     "clearkey": "3b8ea8b587b9586b8620a2f3519fb185:9702671734109337f600471b295ff3c9",
     "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_153/output/dtvhindi.mpd"
+  },
+  "1130": {
+    "clearkey": "0b4b413c3cb45388ad6d924652382036:b7b634dc90c54aad830704d068ac1417",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1924/output/dtvhindi.mpd"
+  },
+  "1132": {
+    "clearkey": "3014c581d52352a7a587e5c5f74d369c:365d275818e28ce1f9aca8d95a4e49a7",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1926/output/dtvhindi.mpd"
+  },
+  "1136": {
+    "clearkey": "32c470dfd0bc5490ac854fccd69dd457:f54333cfbc5c015844746d2240e0dae2",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1930/output/dtvhindi.mpd"
   },
   "114": {
     "clearkey": "960c828cbee6532384eb1910a6e0e7ac:a6cd3706fa0ff1f8e2ba2bfa6466fc4c",
@@ -343,21 +263,141 @@
     "clearkey": "81ba25e5947b59a59259999973dc3b3e:78309df85905662e2f4072a6c720adfe",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_215/output/dtvhindi.mpd"
   },
+  "1151": {
+    "clearkey": "668bb0755cd65e40b4ac634b25f51642:6ff6138189f0db56a38340118e21c097",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1923/output/dtvhindi.mpd"
+  },
+  "1152": {
+    "clearkey": "85d7dea72d4b5e93923713ce84181b9e:809cb4ecc709ad0983cc4561d4264ce1",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1942/output/dtvhindi.mpd"
+  },
+  "1159": {
+    "clearkey": "77807ab8a13f5a77a0892ffaab29a884:9e0c9579dd261ebda23e2629eb6d5962",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1943/output/dtvhindi.mpd"
+  },
+  "1161": {
+    "clearkey": "8ca12578e524544688cb8c810d9a3ebb:7be8f41b6c28757944ae84e25a336263",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1944/output/dtvhindi.mpd"
+  },
+  "1165": {
+    "clearkey": "68c701a69e4b5dba8106698fbfbe027e:81922b8e561f98229d283546dfdb4afd",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1947/output/dtvhindi.mpd"
+  },
+  "1167": {
+    "clearkey": "07062db056b14a819ddf64152184bc03:9ea0ec35f48bcc846c5b68bc069a3450",
+    "url": "https://bpprod13catchup.akamaized.net/out/i/dtvhindi.mpd"
+  },
+  "1168": {
+    "clearkey": "f62acfb238e746a58ed8ee9ad33e6874:e1ee9ad35a083774ae8c2b3d3a41242e",
+    "url": "https://bpprod13catchup.akamaized.net/out/i/dtvhindi.mpd"
+  },
+  "1169": {
+    "clearkey": "b95693929ff958a69e0761493a5a9358:a6f2dfd6b58745aacb32f979aef22858",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1951/output/dtvhindi.mpd"
+  },
   "117": {
     "clearkey": "27669e958f4a576e9a1786132f990502:746b05465b5dc12ef0fda980e1acf3ef",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_154/output/dtvhindi.mpd"
+  },
+  "1170": {
+    "clearkey": "3a4b0850eb9054959be06d3114c2e518:36daf23314c69eb412e98e4fce4a027d",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1952/output/dtvhindi.mpd"
+  },
+  "1171": {
+    "clearkey": "c9d5abce19f94974af94d7bba057b9e1:c3687c67cc8fee1e8f6e0df6a4560903",
+    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
   },
   "118": {
     "clearkey": "05e7850bace359d5baee1227a51d10a9:de03c272c2a069e229e31ab6e3a92bef",
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_168/output/dtvhindi.mpd"
   },
+  "1181": {
+    "clearkey": "2f711dae27a85d9f9092fc9e2066e1b9:ce20cb8e809241c2fd23ba4d54468ff3",
+    "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1960/output/dtvhindi.mpd"
+  },
+  "1182": {
+    "clearkey": "ad08284f8a5c5061905f5409f22cfe78:8885e793253ffab5044f98640a9b6bd9",
+    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1962/output/dtvhindi.mpd"
+  },
+  "1183": {
+    "clearkey": "248e0f3c20505faf9274d6e86b9c29a0:5f495d66bd492fc2f2a2042a30ecb289",
+    "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1963/output/dtvhindi.mpd"
+  },
+  "1188": {
+    "clearkey": ":",
+    "url": "https://bpprod.tatasky.net/bpk-tv/irdeto_com_Channel_1967/output/dtvhindi.mpd"
+  },
   "119": {
     "clearkey": "793da2f9a6ee5474a702ae69c4f5d6e8:94f8abcfe5df9bd8d3ac0d536d954de3",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/dtvhindi.mpd"
   },
+  "1194": {
+    "clearkey": "c3ee3f9fbe5456bf89d9ee237f227ebb:b7f05089a607d3949a8b4c290cd04285",
+    "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1968/output/dtvhindi.mpd"
+  },
+  "1196": {
+    "clearkey": ":",
+    "url": "https://cable31tataplay.akamaized.net/bharat/bharat/dtvhindi.mpd"
+  },
+  "1197": {
+    "clearkey": ":",
+    "url": "https://cable33tataplay.akamaized.net/nilachakra/nilachakra/dtvhindi.mpd"
+  },
+  "1198": {
+    "clearkey": ":",
+    "url": "https://cable35tataplay.akamaized.net/cynema/cynema/dtvhindi.mpd"
+  },
+  "1199": {
+    "clearkey": ":",
+    "url": "https://cable37tataplay.akamaized.net/musiq/musiq/dtvhindi.mpd"
+  },
+  "12": {
+    "clearkey": "c4c8b5006df45a64a4d1c977e5804040:2892e3e672648ca6b91cecc11466abaa",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_380/output/dtvhindi.mpd"
+  },
   "120": {
-    "clearkey": "3dcc8426eaf754e2829cadbff64ded1f:8398ca362d4b55017d3e38320208cf3d",
+    "clearkey": "2a53c8eac33d54589b09eefbd9b99dc8:904a5ad1bd9d8ad82e2bc3716b1b4346",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_199/output/dtvhindi.mpd"
+  },
+  "1200": {
+    "clearkey": ":",
+    "url": "https://cable39tataplay.akamaized.net/jatra/jatra/dtvhindi.mpd"
+  },
+  "1201": {
+    "clearkey": ":",
+    "url": "https://cable41tataplay.akamaized.net/paramatma/paramatma/dtvhindi.mpd"
+  },
+  "1202": {
+    "clearkey": ":",
+    "url": "https://cable43tataplay.akamaized.net/onepaschima/onepaschima/dtvhindi.mpd"
+  },
+  "1203": {
+    "clearkey": ":",
+    "url": "https://cable45tataplay.akamaized.net/india24x7/india24x7/dtvhindi.mpd"
+  },
+  "1204": {
+    "clearkey": ":",
+    "url": "https://cable47tataplay.akamaized.net/citymusic/citymusic/dtvhindi.mpd"
+  },
+  "1205": {
+    "clearkey": ":",
+    "url": "https://cable49tataplay.akamaized.net/omm/omm/dtvhindi.mpd"
+  },
+  "1206": {
+    "clearkey": ":",
+    "url": "https://cable51tataplay.akamaized.net/baiscope/baiscope/dtvhindi.mpd"
+  },
+  "1207": {
+    "clearkey": ":",
+    "url": "https://cable53tataplay.akamaized.net/manoranjan/manoranjan/dtvhindi.mpd"
+  },
+  "1208": {
+    "clearkey": ":",
+    "url": "https://cable55tataplay.akamaized.net/halchal/halchal/dtvhindi.mpd"
+  },
+  "1209": {
+    "clearkey": ":",
+    "url": "https://cable57tataplay.akamaized.net/snews/snews/dtvhindi.mpd"
   },
   "121": {
     "clearkey": "68cfbe89bfef5c138fae6ed73f7bfdfa:1511ab36c687d0bca165d3c699bdd3a5",
@@ -371,57 +411,341 @@
     "clearkey": "b91ce689caf05cc49a324b5358e5b8ec:1138913593d7087902b537c6c848931e",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_185/output/dtvhindi.mpd"
   },
+  "1242": {
+    "clearkey": ":",
+    "url": "https://cable62tataplay.akamaized.net/in24news/in24news/dtvhindi.mpd"
+  },
+  "1245": {
+    "clearkey": ":",
+    "url": "https://cable59tataplay.akamaized.net/cmaf/nationaltoday24/dtvhindi.mpd"
+  },
+  "1246": {
+    "clearkey": ":",
+    "url": "https://cable60tataplay.akamaized.net/vandebharat/vandebharat/dtvhindi.mpd"
+  },
+  "1247": {
+    "clearkey": ":",
+    "url": "https://cable63tataplay.akamaized.net/live6/35mm/dtvhindi.mpd"
+  },
+  "1252": {
+    "clearkey": ":",
+    "url": "https://cable68tataplay.akamaized.net/HaryanaBuzz/myStream/dtvhindi.mpd"
+  },
+  "1253": {
+    "clearkey": ":",
+    "url": "https://cable69tataplay.akamaized.net/JeewanBhakti/myStream/dtvhindi.mpd"
+  },
+  "1254": {
+    "clearkey": ":",
+    "url": "https://cable65tataplay.akamaized.net/NationalNewsLive/myStream/dtvhindi.mpd"
+  },
+  "1255": {
+    "clearkey": ":",
+    "url": "https://cable66tataplay.akamaized.net/UpdateIndia/myStream/dtvhindi.mpd"
+  },
+  "1256": {
+    "clearkey": ":",
+    "url": "https://cable67tataplay.akamaized.net/OyeMusic/myStream/dtvhindi.mpd"
+  },
+  "1257": {
+    "clearkey": ":",
+    "url": "https://stream.mediasolution.cloud:8088/dash/dtvhindi.mpd"
+  },
+  "1258": {
+    "clearkey": "63f19143d4be5544bed8f8173729875c:2736b4f969aedda7c9065cc5ce426e66",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2045/output/dtvhindi.mpd"
+  },
   "126": {
     "clearkey": "42d526329db252f3a42f710b303d9acc:a788aab6fd34bcd35ba9a6f18cf79403",
     "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_194/output/dtvhindi.mpd"
+  },
+  "1260": {
+    "clearkey": "4d17392f509a506b8ed8f469dfdbcb91:158a233ed193f18840c47b27bd45e3e2",
+    "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2047/output/dtvhindi.mpd"
+  },
+  "1267": {
+    "clearkey": "b3bb33d598145852852ab0060bfb41fd:a303ce4a05b169ff4af0d9df800a2844",
+    "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2051/output/dtvhindi.mpd"
+  },
+  "1268": {
+    "clearkey": "b440ab2b602d59fab8da661abaeab467:fd39bb1542d4678967d20161b84b16bb",
+    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2050/output/dtvhindi.mpd"
+  },
+  "1269": {
+    "clearkey": "7b3c52df06065b5c8168ebb93204c6d1:60b98789125242084c971d895805e2f4",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2052/output/dtvhindi.mpd"
   },
   "127": {
     "clearkey": "fd752835ab595c0684cb15a6584d14e7:5ecafa230fcfe645251a5247ddd66db6",
     "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_169/output/dtvhindi.mpd"
   },
+  "1274": {
+    "clearkey": "79de9bde282656fc90fff53452fc8f28:8d6dc7e68b8fe2f07a403614320de451",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2055/output/dtvhindi.mpd"
+  },
+  "1276": {
+    "clearkey": "5728f25981f252619f702d1ff39c53a3:01241fe74ea685a19eb537dbdedb5e03",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2056/output/dtvhindi.mpd"
+  },
+  "1277": {
+    "clearkey": ":",
+    "url": "https://cable72tataplay.akamaized.net/navtejtv/navtejtv/dtvhindi.mpd"
+  },
+  "1278": {
+    "clearkey": ":",
+    "url": "https://cable71tataplay.akamaized.net/primetv/primetv/dtvhindi.mpd"
+  },
   "128": {
     "clearkey": "873f5a85eb1b592b89a2927f33c5ed10:4b6f7debb3760b44534a5484c60fc99e",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_227/output/dtvhindi.mpd"
+  },
+  "1281": {
+    "clearkey": ":",
+    "url": "https://cable73tataplay.akamaized.net/samachar24/samachar24/dtvhindi.mpd"
+  },
+  "1284": {
+    "clearkey": ":",
+    "url": "https://cable74tataplay.akamaized.net/dash/dtvhindi.mpd"
+  },
+  "1285": {
+    "clearkey": ":",
+    "url": "https://cable75tataplay.akamaized.net/dash/dtvhindi.mpd"
+  },
+  "1286": {
+    "clearkey": "295e0c8a138b58e593fcbca839e44a97:a88f045a207bfebadd92b1f7a431d128",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2063/output/dtvhindi.mpd"
+  },
+  "1287": {
+    "clearkey": "467f5fa0645d54cc92bb257d6278bfa6:cec1cd0746a024ec5a25ad5d09a572b8",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2064/output/dtvhindi.mpd"
+  },
+  "1288": {
+    "clearkey": "5263fc0e7682533090066352f31a242c:c7f1d451a25e021c1ae421e3b0af4230",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2065/output/dtvhindi.mpd"
   },
   "129": {
     "clearkey": "b62bab9763e95066901e0eff71422ce6:3e6171773c5dab868c92c15fe984dac7",
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_210/output/dtvhindi.mpd"
   },
+  "1290": {
+    "clearkey": "805e7c10c60c4ec9a075de2150caac9a:5d6154f4c398f4d280555cf61181f73c",
+    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
+  },
+  "1299": {
+    "clearkey": ":",
+    "url": "https://bpprod.tatasky.net/bpk-tv/irdeto_com_Channel_2077/output/dtvhindi.mpd"
+  },
+  "13": {
+    "clearkey": "ce9f7acc83145988b2762fe9e4cad27c:f8a3fd053d6e13dd6adcbca0e9ad2911",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_280/output/dtvhindi.mpd"
+  },
   "130": {
-    "clearkey": "7bbfdd42e5585c788c277885844a46c2:c349b794126ea26d999f5d98b7476cb6",
+    "clearkey": "eb4fc8ebc7fa53d3a3d9fb4ace061675:4002643c15b495d2e201e1d8ad3e7e02",
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_129/output/dtvhindi.mpd"
   },
   "131": {
     "clearkey": "43c8c00a362b56939f1cde5734ea0ae6:82862d2d1bd8ab235cd3c66be1d4d997",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_241/output/dtvhindi.mpd"
   },
+  "1313": {
+    "clearkey": "9db1986ac60a5ceb9a09f4779bc34b5c:f3e2f69da3ef2489600266748ead493a",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2079/output/dtvhindi.mpd"
+  },
+  "1315": {
+    "clearkey": "d17c192d058a595d905f94b81ad43173:269e736711895b01c27f433e30af154c",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2084/output/dtvhindi.mpd"
+  },
+  "1317": {
+    "clearkey": "e8f1eeffad01513bbaca3d0524b39090:ba28547f12bd0ff05c0f74e7c6c5c615",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2085/output/dtvhindi.mpd"
+  },
   "132": {
     "clearkey": "91755a5ddfb95cdb94315cae57d1fa58:e7f05fe8400a47fff42d016ad553790a",
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_198/output/dtvhindi.mpd"
   },
+  "1321": {
+    "clearkey": "78dca1a15d6658d2b2b11d8a73907221:7ed711daa3bd86d9da1bf7eeb9fa444b",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2089/output/dtvhindi.mpd"
+  },
+  "1322": {
+    "clearkey": "1bf2f64568ba5f8db0290773a81f90a4:e9ff0a4a5ec7f153e145f9041f7dd50e",
+    "url": "https://bpweb5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2090/output/dtvhindi.mpd"
+  },
+  "1332": {
+    "clearkey": ":",
+    "url": "https://cable79tataplay.akamaized.net/abnews/abnews/dtvhindi.mpd"
+  },
+  "1333": {
+    "clearkey": ":",
+    "url": "https://cable80tataplay.akamaized.net/abcnews/abcnews/dtvhindi.mpd"
+  },
+  "1334": {
+    "clearkey": ":",
+    "url": "https://cable81tataplay.akamaized.net/kbcnews/kbcnews/dtvhindi.mpd"
+  },
+  "1335": {
+    "clearkey": ":",
+    "url": "https://cable83tataplay.akamaized.net/shikshatvhd/shikshatvhd/playlist.m3u8"
+  },
+  "1336": {
+    "clearkey": ":",
+    "url": "https://cable76tataplay.akamaized.net/shresthbharat/shresthbharat/dtvhindi.mpd"
+  },
+  "1337": {
+    "clearkey": ":",
+    "url": "https://legitpro.co.in/live7/sristitv/dtvhindi.mpd"
+  },
+  "1338": {
+    "clearkey": ":",
+    "url": "https://cable82tataplay.akamaized.net/bnews24/bnews24/dtvhindi.mpd"
+  },
+  "1339": {
+    "clearkey": ":",
+    "url": "https://cable77tataplay.akamaized.net/tnpnews/tnpnews/dtvhindi.mpd"
+  },
   "134": {
-    "clearkey": "57474b43de5c52aea7bdb024153cea5e:f4876abe8479264524cecc57d4fffb8e",
+    "clearkey": "b7a5df2b50b05703bd6484e3686b1399:6f2d0fce9f6bd1741284dbc282e1fcc9",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_230/output/dtvhindi.mpd"
   },
+  "1340": {
+    "clearkey": "87a7cec1ecb45d289bcbc535621b9028:aa9611f20fab833e0a065e51489505ac",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2104/output/dtvhindi.mpd"
+  },
+  "1341": {
+    "clearkey": "f247501a30855016a0cfc43931907754:8f9b36aba6f3e18beaf7ea58b82bb9d2",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2102/output/dtvhindi.mpd"
+  },
+  "1342": {
+    "clearkey": "2f21fd62aa5653769a3ba87f144dbf8c:63d9c67f0572ab58e18eae3361ceb7fc",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2103/output/dtvhindi.mpd"
+  },
+  "1343": {
+    "clearkey": "96a4626a0e6a5f999cf3e2a7f67ab971:30905fe91bc71ff43b8fc384cc330e61",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2100/output/dtvhindi.mpd"
+  },
+  "1344": {
+    "clearkey": "5bbd5d2dfd6a562bb118d84ba8297403:857178da271938a745439265f7e298e7",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2101/output/dtvhindi.mpd"
+  },
+  "1349": {
+    "clearkey": "4f13e76df320419daf31cf057e83c0d4:036519085abc1f5e8537c64a0fbf07a3",
+    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
+  },
   "135": {
-    "clearkey": "5b6be491cc5d5ff989485536ac3a52c2:415179a25f0e061c7f6117b1c3145d7f",
+    "clearkey": "4a35dfc51d0859cc957c8586048ce570:bcc59cf63f4466e0c9b903b26bdd070f",
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_127/output/dtvhindi.mpd"
+  },
+  "1350": {
+    "clearkey": "63d4a91a604c405eb23c444c01e85e8d:6c3652d9a8d773d7e50c0e30ad42ee04",
+    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
+  },
+  "1351": {
+    "clearkey": "78231f5fb2ab4c0a867886d221c75447:4c6afe10935f23ae5c1b83066ef68533",
+    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
+  },
+  "1352": {
+    "clearkey": "bec1011c94335a89a76f8aa61c7cc544:3c6dff3a0684d1c46d7ab07434d8f375",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2113/output/dtvhindi.mpd"
+  },
+  "1353": {
+    "clearkey": "03486142b3f75184bb2c6e2a89598126:51edcc6b6e8421615e98130db358bb47",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2114/output/dtvhindi.mpd"
   },
   "136": {
     "clearkey": "8e8759bc999b576f9d97986f8750336c:f9987fb7ce87b53b2d615b8e51508a77",
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_111/output/dtvhindi.mpd"
   },
+  "1363": {
+    "clearkey": "2b09b21fec31592cbda48fe86ca35939:5887b690a9cf9b8dd34c49b22454a853",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2115/output/dtvhindi.mpd"
+  },
   "137": {
-    "clearkey": "b302b3a155b45c0dba778f02f4b4a561:b3b47c26ac923051991b37d9ef0e4196",
+    "clearkey": "9324d6f8f2fa53b1b652ad5b23d3c90d:c2132b2fc5bf86657ec68a697e791daa",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_113/output/dtvhindi.mpd"
+  },
+  "1371": {
+    "clearkey": "c283cd6c9ea049fd87f5875bbe386c44:72650790c568271d329fc5945fa35e4c",
+    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
+  },
+  "1372": {
+    "clearkey": "6cf0469281b74057979f752b50d28ea8:a5801feba5c183fce18b4d9b033c996e",
+    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
+  },
+  "1376": {
+    "clearkey": "138dd407eb465908bda75aae209f445d:ca0ab07607e321dd720e3bfa76210896",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2135/output/dtvhindi.mpd"
+  },
+  "1378": {
+    "clearkey": "e3e5cc4c9c54592bbe7f9765405c14e5:032df2c12cfdfdfd4246afb6f059f774",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2136/output/dtvhindi.mpd"
+  },
+  "1379": {
+    "clearkey": ":",
+    "url": "https://cable94tataplay.akamaized.net/hls/btimenews.m3u8"
   },
   "138": {
     "clearkey": "c3c6823eaf39520483b6219eb5acd021:c4eaa53e0580338bf6160d6c84d49ffe",
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_117/output/dtvhindi.mpd"
   },
+  "1380": {
+    "clearkey": ":",
+    "url": "https://cable93tataplay.akamaized.net/news21/news21/dtvhindi.mpd"
+  },
+  "1381": {
+    "clearkey": ":",
+    "url": "https://cable88tataplay.akamaized.net/live/anandhamtv/dtvhindi.mpd"
+  },
+  "1382": {
+    "clearkey": ":",
+    "url": "https://cable91tataplay.akamaized.net/live/dharshantv/dtvhindi.mpd"
+  },
+  "1383": {
+    "clearkey": ":",
+    "url": "https://cable90tataplay.akamaized.net/live/nijamtv/dtvhindi.mpd"
+  },
+  "1384": {
+    "clearkey": ":",
+    "url": "https://cable86tataplay.akamaized.net/live/suriyantv/dtvhindi.mpd"
+  },
+  "1385": {
+    "clearkey": ":",
+    "url": "https://cable87tataplay.akamaized.net/live/subintv/dtvhindi.mpd"
+  },
+  "1386": {
+    "clearkey": ":",
+    "url": "https://cable85tataplay.akamaized.net/live/ntvpkt/dtvhindi.mpd"
+  },
+  "1387": {
+    "clearkey": ":",
+    "url": "https://cable89tataplay.akamaized.net/live/rtv/dtvhindi.mpd"
+  },
+  "1388": {
+    "clearkey": ":",
+    "url": "https://cable92tataplay.akamaized.net/live/utv/dtvhindi.mpd"
+  },
+  "1389": {
+    "clearkey": "a4cf56e34a31539db4d1d8664fdea6e1:7ee305002f1791755e0b264eb4893e26",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2139/output/dtvhindi.mpd"
+  },
   "139": {
     "clearkey": "0ad9de53963a5a679255201c21b29b2a:f350a2894d94e8d98be2d8c3d2f5746a",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_201/output/dtvhindi.mpd"
+  },
+  "1391": {
+    "clearkey": ":",
+    "url": "https://server.thelegitpro.in/bhakthisiri/bhakthisiri/dtvhindi.mpd"
+  },
+  "1392": {
+    "clearkey": ":",
+    "url": "https://server.thelegitpro.in/sadvidya/sadvidya/dtvhindi.mpd"
+  },
+  "1393": {
+    "clearkey": ":",
+    "url": "https://cable11catchup.akamaized.net/dtvhindi.mpd"
+  },
+  "14": {
+    "clearkey": "e632ff48861c57c4b95162fc5754eb91:fb582651d813d8392bffdaf3059ccd56",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_360/output/dtvhindi.mpd"
   },
   "140": {
     "clearkey": "d29d8d27919a57a9b23e4857fbc1669e:4c1cf06fd45d55ba25c5e0e7ebb80ddd",
@@ -447,6 +771,10 @@
     "clearkey": "18a787e737bd5dea85661ec86e86be65:36ad2b182df0925eb73653446d777214",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_203/output/dtvhindi.mpd"
   },
+  "15": {
+    "clearkey": "6c6ed7919e4b539886d421823ece6b5d:0dd5e7bfaf0f97ca2f19d33616cf961f",
+    "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_300/output/dtvhindi.mpd"
+  },
   "150": {
     "clearkey": "767c1f066a515bf5a56395b4b6a5025f:704ef3e6756c8ac1fb75ddf53c529602",
     "url": "https://bpweb1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_114/output/dtvhindi.mpd"
@@ -468,7 +796,7 @@
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_220/output/dtvhindi.mpd"
   },
   "158": {
-    "clearkey": "b02f746f33535040a6af4e69cffd6551:4495f9b0baa9b3efe5166c4c6dabf085",
+    "clearkey": "9e010bc12ac252fe959ad1340231cf04:f25f688b03284e868e99629f1d83bb11",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_400/output/dtvhindi.mpd"
   },
   "160": {
@@ -491,6 +819,10 @@
     "clearkey": "bdf66f6c0b105e6fa3f189736f6004d4:9e19ce79fd92ac3f04c13f8c6db2e52e",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_109/output/dtvhindi.mpd"
   },
+  "17": {
+    "clearkey": "4dce4c6f478d596eb88e05bd499fd23b:14fcdf49905fa808cf662318ff5c3f6f",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_279/output/dtvhindi.mpd"
+  },
   "170": {
     "clearkey": "bf4ce8dc18835e258bedbb4c0ad4abf7:2b70923d4e29854c87f8e14acc984021",
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_115/output/dtvhindi.mpd"
@@ -500,15 +832,15 @@
     "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_116/output/dtvhindi.mpd"
   },
   "172": {
-    "clearkey": "70e2144425435bffb8ad0fe934cb2517:83750aa2792b3e8bbc2006b39f94f58f",
+    "clearkey": "7bf27df905fa5e0aa63634f220059f8a:91f47a94097a1715b8bf6d398be91626",
     "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_120/output/dtvhindi.mpd"
   },
   "173": {
-    "clearkey": "f88348440dd5513d85af450b3b6c8e13:5320704886cba4f175dba12087e8eef5",
+    "clearkey": "e94276dfe8cf5ead92e8ced29e038225:263abee048ed7b9aeaeac5d2e67837a9",
     "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_235/output/dtvhindi.mpd"
   },
   "174": {
-    "clearkey": "bb606a54e2ae5222aecc448057f224f4:92bdd19a69d1fdde7e7e17c2c1e578d1",
+    "clearkey": "e8a2bc48176b599cb9d8c7e1852e11e5:a71b7747400a7e59614d2bffa2a13212",
     "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_236/output/dtvhindi.mpd"
   },
   "175": {
@@ -532,7 +864,7 @@
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_370/output/dtvhindi.mpd"
   },
   "181": {
-    "clearkey": "9553f90e6183551d86a7e5a4ad521690:9459f67fa8fe60f0d536333bd36bfb01",
+    "clearkey": "5322611c09865866b7e3a41982c61b9c:b8d03eb45da930663ca480947c28783d",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_379/output/dtvhindi.mpd"
   },
   "183": {
@@ -540,7 +872,7 @@
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_150/output/dtvhindi.mpd"
   },
   "184": {
-    "clearkey": "536ca205556c59d5a224ef6954dd5b2c:e99c6ec46184db4cf3ea0fa65176da31",
+    "clearkey": "c3fe165a6fe8566fa6063dcd63ea49e9:2e5713ecda3a65589018ff5c860ab219",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_119/output/dtvhindi.mpd"
   },
   "187": {
@@ -564,7 +896,7 @@
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_140/output/dtvhindi.mpd"
   },
   "192": {
-    "clearkey": "0dd5688739285274b5ce8f8ba120ae1e:88079b72a217ae0569e1a6ecf7c09e7e",
+    "clearkey": "7f02ae50af955fdbb7e6a86f33d09cee:8b5b6dd4021b384759c32804d660cec8",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_231/output/dtvhindi.mpd"
   },
   "193": {
@@ -583,12 +915,20 @@
     "clearkey": "c0bd3094bbce5442b0fc0bf0499f1b64:521ad04e904f7d8a35c47d6ad59da49a",
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_350/output/dtvhindi.mpd"
   },
+  "2": {
+    "clearkey": ":",
+    "url": "https://bpprod47catchup.akamaized.net/out/i/dtvhindi.mpd"
+  },
+  "20": {
+    "clearkey": "0dab7fb6585b5a3c89d6c23a396016b8:6214b4adae7f122d1839ba401883d571",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_389/output/dtvhindi.mpd"
+  },
   "200": {
-    "clearkey": "b3d29a96a0075916b75fd8171fb20210:eb60cda26ea1e00268ffbae209050d8d",
+    "clearkey": "1b4f8caaa21b5a0dbb8d4926c418e739:b1a8a5848a618d21b45bce9c7b5d5b1a",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_344/output/dtvhindi.mpd"
   },
   "201": {
-    "clearkey": "c7928eaf5a1851b69f1726b67e4ce592:eb41daf685e67a72f02d670a387624ab",
+    "clearkey": "ad9f352d1052583bbcfb2e491f58376a:ecb206dfb5c8879b6984374383ad728a",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_345/output/dtvhindi.mpd"
   },
   "203": {
@@ -636,7 +976,7 @@
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_281/output/dtvhindi.mpd"
   },
   "214": {
-    "clearkey": "57ab3f4e508a5e2fa9dedff6378b1b27:a2ba9a0a53d6ff2cea30736b2d877883",
+    "clearkey": "151ed2d1081b5740877055e30ca416ce:befdb99db4370af5723cdf1e01dd23bd",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_332/output/dtvhindi.mpd"
   },
   "215": {
@@ -651,6 +991,10 @@
     "clearkey": "1969e61a27aa556ea161c9db855f971f:2e5735275f1ef379249b4238e6cf4861",
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_128/output/dtvhindi.mpd"
   },
+  "22": {
+    "clearkey": ":",
+    "url": "https://bpprod31catchup.akamaized.net/out/i/dtvhindi.mpd"
+  },
   "220": {
     "clearkey": "e45e517e1a415201a9bed318eb16cddf:9564a81d90fdb44bee0f58ea255319aa",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_233/output/dtvhindi.mpd"
@@ -660,7 +1004,7 @@
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_335/output/dtvhindi.mpd"
   },
   "222": {
-    "clearkey": "2efb6aaa87e85346b13b32a2b7c8f21a:8fefbbb143f812e6a59744e39748d49a",
+    "clearkey": "ff190ab88ebd5e978c32679e2b3af626:5dfd7a25ececa0759f5e7a3574c043fb",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_359/output/dtvhindi.mpd"
   },
   "223": {
@@ -691,6 +1035,10 @@
     "clearkey": "ef1ba1c15a08564fa2365e87f87195cf:efb9e4417f1b58f376729a3a485658f7",
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_243/output/dtvhindi.mpd"
   },
+  "23": {
+    "clearkey": "4168b507cb6a5ebdb8307d41bd49cfb1:e007d13c648b2de30d994cd284e0f9fc",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_286/output/dtvhindi.mpd"
+  },
   "230": {
     "clearkey": "3a933af034d6559f94c23df74e0703ae:7c9300fed292c82494b0609d4c085f08",
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_212/output/dtvhindi.mpd"
@@ -708,7 +1056,7 @@
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_329/output/dtvhindi.mpd"
   },
   "234": {
-    "clearkey": "a2155640f341590fb7a9af2e68aa1912:9505d055d3da20d261d8cb9e8135ee65",
+    "clearkey": "a96a744ff0eb5f43a37cb33e9adbb40a:18c8de5a7553a9e2bc996856566610fa",
     "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_237/output/dtvhindi.mpd"
   },
   "235": {
@@ -726,6 +1074,10 @@
   "239": {
     "clearkey": "55670f91dcca5b46b9381de0653b4fb5:91c8c004d09e5aef4143f87bf4c9eed4",
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_406/output/dtvhindi.mpd"
+  },
+  "24": {
+    "clearkey": "7b9264332d895c1ba5e1b959193965ba:53c24773594181cd2344a2e393771806",
+    "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/dtvhindi.mpd"
   },
   "243": {
     "clearkey": "b3d0a996956c53068e080316879a4675:78c92d6474da9ce549f2811d693fa320",
@@ -750,6 +1102,10 @@
   "249": {
     "clearkey": "c61de58cde765a87a299677c50eb6a1e:e983e107e80b92707a43ed6636d58222",
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_425/output/dtvhindi.mpd"
+  },
+  "25": {
+    "clearkey": "33759963f44a5e0ba70a135034604978:ba77acaa806a29becab0d7768ddb69fc",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_319/output/dtvhindi.mpd"
   },
   "250": {
     "clearkey": "3c43341b7b4e529c8a4a19856e502058:d7063b789a85303bd0eedaf9f8881a77",
@@ -787,6 +1143,10 @@
     "clearkey": "785149106ca158b58ee188341c1a6298:a25fcc01a86d07aaee9324b07905f9b2",
     "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_420/output/dtvhindi.mpd"
   },
+  "26": {
+    "clearkey": "ce7da7bd3d545f7fb4d2fe6e2c8b05ca:37ceff15b885e6339980d08dc848ab0d",
+    "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_283/output/dtvhindi.mpd"
+  },
   "260": {
     "clearkey": "34b5d77ed7d15d108bb5ab80a2a28306:12a319265465e554369de90089175b57",
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_421/output/dtvhindi.mpd"
@@ -814,6 +1174,10 @@
   "269": {
     "clearkey": "17801bcb6183567fa5855b10bd5f1eb9:b2d97ca32cb40510aa1906d321dc2147",
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_555/output/dtvhindi.mpd"
+  },
+  "27": {
+    "clearkey": "8f52b815de445d6b913e8a262a458e2f:9e437011bcf4f1a6ed0fbd1cc8f5c5a6",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_331/output/dtvhindi.mpd"
   },
   "270": {
     "clearkey": "ded54037b7b95ef2b58660bad78042b2:09c52a13ce4502280d494fe2bb50ad6e",
@@ -887,6 +1251,14 @@
     "clearkey": "f88b6e3232b75baf98fb287a82c0b31b:11b721079ffa006347359031586b81aa",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_476/output/dtvhindi.mpd"
   },
+  "3": {
+    "clearkey": "9000c384f39c5095b25ef47eedf471a5:2fe3ad3a5fc6a31e68bc97cabc493b5d",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_284/output/dtvhindi.mpd"
+  },
+  "30": {
+    "clearkey": "857510d95120519e94b8b2da05b56e67:2a643a496292f683ff91a9b0ac4b3cd1",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_361/output/dtvhindi.mpd"
+  },
   "303": {
     "clearkey": "9b5f49cd2702597eb810e0b2200d11b4:8f3239c86935ef1e26fa4c05435463ce",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_487/output/dtvhindi.mpd"
@@ -911,6 +1283,10 @@
     "clearkey": "ed63fb8634bd50d2bdd779831918d919:2b96d1d8ef1b88fd27314388ac328e89",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_491/output/dtvhindi.mpd"
   },
+  "31": {
+    "clearkey": "26b7fad17ee15f66b2e41c29d4146c0c:9af09009ea80b138deffdb2b246fcea5",
+    "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_320/output/dtvhindi.mpd"
+  },
   "311": {
     "clearkey": "6ec91bd5f5eb51e9bf458ea598cb04ff:e18092f0f7ed9df2f5da102b90d3f998",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_495/output/dtvhindi.mpd"
@@ -926,6 +1302,10 @@
   "317": {
     "clearkey": "bb8c1d5e6e9b56a583d47f8decc0b7e3:60cc784cea8acefbec20897e3261de6f",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_505/output/dtvhindi.mpd"
+  },
+  "32": {
+    "clearkey": "bc5bbab15b23547282106dd5a6828eed:7b7c2e93cf3f7dcbd9e38cccd08ca5ed",
+    "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_301/output/dtvhindi.mpd"
   },
   "320": {
     "clearkey": "8543950c5b065ef08993fe008c151aa6:9c37ea9ca380e0e2a46c323375679c60",
@@ -954,6 +1334,10 @@
   "326": {
     "clearkey": "7676e7a9d8fe56ea9db6ff99575396b0:3d68b587e5823a8af6a49dc139a84359",
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_510/output/dtvhindi.mpd"
+  },
+  "33": {
+    "clearkey": "bd96623448ed5bdcbc16ecc045844909:8b24a4e89222dd1082e5520753721c70",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_316/output/dtvhindi.mpd"
   },
   "330": {
     "clearkey": "1e4861ed3d8450fd979933dc351d3e5e:2fe79e7064095369440203680c1df992",
@@ -988,12 +1372,16 @@
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_523/output/dtvhindi.mpd"
   },
   "338": {
-    "clearkey": "0e82af70f45558be962d423921a56e23:96bd02dd40535e059c12a742c77516c3",
+    "clearkey": "967b91ff415557f5b0250c770ac195fc:6f38165624a63477bbe35dd00a62f7a0",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_524/output/dtvhindi.mpd"
   },
   "339": {
     "clearkey": "787ea65045cf5ec0a7c5b458e0b6bf70:7e00f511b4d888483b82ab1659aece68",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_525/output/dtvhindi.mpd"
+  },
+  "34": {
+    "clearkey": "dc7b8d38dee451629fa5cb39268c4320:b298ebbf37d421e5a97aa1453c4a4192",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_285/output/dtvhindi.mpd"
   },
   "341": {
     "clearkey": "7dfeb2db6e7f554480c0bbb409b710cd:5466ea30192f51874252cd982c439d9a",
@@ -1014,6 +1402,10 @@
   "349": {
     "clearkey": "cc9dab2619ce5e9bb5fa4b216d1e7293:5f557587396d8a387888629e05be8435",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_566/output/dtvhindi.mpd"
+  },
+  "35": {
+    "clearkey": "f3fb1cd3dc2e504182cde59ac590fd3f:45ed25c5b21b08a44e145f2342f995c5",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/dtvhindi.mpd"
   },
   "351": {
     "clearkey": "f4318bbb7ff75385a92ab9c658ab7b4c:703e877389bd649cceaf5c78fb0ca2e0",
@@ -1047,6 +1439,10 @@
     "clearkey": "fed41878b28150a7abf15ebc1546c51b:851fad4432515ff8d83f640ec2b82d32",
     "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_537/output/dtvhindi.mpd"
   },
+  "36": {
+    "clearkey": "8397fbbf6d6c59bf8c29d25d48b78e4e:d433df3c062ca1897bfcc2e1c7e368b3",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_309/output/dtvhindi.mpd"
+  },
   "361": {
     "clearkey": "5bbb43be78de5bd89cfb78c29bf672ac:f73ecca3ef17e948b91c8c136b7a7cc1",
     "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_549/output/dtvhindi.mpd"
@@ -1071,6 +1467,10 @@
     "clearkey": "9a252b550812574aaf179095d763575d:fe78267cdc15d0ff947c3b37360b5cc1",
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_576/output/dtvhindi.mpd"
   },
+  "37": {
+    "clearkey": ":",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_347/output/dtvhindi.mpd"
+  },
   "370": {
     "clearkey": "356eaef5d73f55388077c0849b59156a:406ccec3826b42fd479bcdea5b944d82",
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_581/output/dtvhindi.mpd"
@@ -1084,7 +1484,7 @@
     "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_588/output/dtvhindi.mpd"
   },
   "373": {
-    "clearkey": "5f70e85428f758558ea9dc09f3bc2cf3:e1e29024edc8ea9c2009d3537417d930",
+    "clearkey": "dc49a781cfbf515faf63de6eeef53764:db1f6e8e2049aee40aa78d1336729a01",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_589/output/dtvhindi.mpd"
   },
   "375": {
@@ -1107,6 +1507,10 @@
     "clearkey": "e09133d4a6675d5fa78ccafc3c937452:5eae8238e6a494cf37634425d7b0a4dc",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_597/output/dtvhindi.mpd"
   },
+  "38": {
+    "clearkey": "e915b36e229a59eba81d4c845fb84e72:35b5fa542f559f78aa3011b8ec47855b",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_341/output/dtvhindi.mpd"
+  },
   "380": {
     "clearkey": "4a35fd0e03d35edeb63f174064e21887:8a74473785588338706d9c2cf6f37189",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_600/output/dtvhindi.mpd"
@@ -1124,12 +1528,16 @@
     "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_605/output/dtvhindi.mpd"
   },
   "387": {
-    "clearkey": "27f6879a523e53f08b33b56707882337:7cce7988e6876bb979ea967444901be1",
+    "clearkey": "190e62cb7d435335822ad5ef54a72dfb:e1b560cb910aaf723f7167751c12ec31",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/dtvhindi.mpd"
   },
   "388": {
     "clearkey": "b97527123dc85996be58efa8505724a4:f2c8ab37fc8c3ceaf15406126f824f29",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_608/output/dtvhindi.mpd"
+  },
+  "39": {
+    "clearkey": "bd38021388c7519ca741cf29b4a34012:fd694ac2aba449108e0e54b4790bddf7",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_355/output/dtvhindi.mpd"
   },
   "390": {
     "clearkey": "cdc41b9f24955c4ea5c88e0a19a3019b:1ed4693e53be4f06e92d789d20495f60",
@@ -1159,6 +1567,10 @@
     "clearkey": "a6bff63326b75ce79775c5eaf4ea12ba:6a62e48bffd8c593a70d9b5a3af5f88d",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_625/output/dtvhindi.mpd"
   },
+  "40": {
+    "clearkey": "487a7dea416a536e8bb8969c5da28dd1:14c541db08d3b4fb82ae1a7da514ad4a",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/dtvhindi.mpd"
+  },
   "400": {
     "clearkey": ":",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_624/output/dtvhindi.mpd"
@@ -1179,12 +1591,16 @@
     "clearkey": "5612427ea9d751e999b08dcb718ca16d:30232b86b3698ebda555eb7a833b8372",
     "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_651/output/dtvhindi.mpd"
   },
+  "41": {
+    "clearkey": "4100a38c3dd450d385900106114031a1:3dc41f96077cb5795c02af498546d22c",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_337/output/dtvhindi.mpd"
+  },
   "411": {
     "clearkey": "e418b04376ab59b5a1f8bd04be0c20ed:de005112dbd4bb5f8c0c73e0dc207ef0",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_644/output/dtvhindi.mpd"
   },
   "413": {
-    "clearkey": "b1bd40fbef435d5c966c97bde0553dfb:1863682fa3e0b67f69b8674ccd79496e",
+    "clearkey": "1306fe18287f5080b4b7c313b1f36140:9991fd31167377c7fbb945ff5cbaba6b",
     "url": "https://bpweb1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/dtvhindi.mpd"
   },
   "414": {
@@ -1216,11 +1632,11 @@
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_679/output/dtvhindi.mpd"
   },
   "425": {
-    "clearkey": "777d770807e0568ab6f9818211c04d58:9534f518227dabbaf2f339599b60d4c7",
+    "clearkey": "f02af7a5d96d5b2fbdfd63372f171c38:b0687af5456bbece973fcedafcd2ba55",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_684/output/dtvhindi.mpd"
   },
   "426": {
-    "clearkey": "26424cd3b8f351f0bccdb8c51e688262:871b3193cba773c694662f3a8e016281",
+    "clearkey": "b02d3012dbe75adbaf740d78be1ba1ea:0b07eae001d387d344df146acacf792b",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_683/output/dtvhindi.mpd"
   },
   "427": {
@@ -1234,6 +1650,10 @@
   "429": {
     "clearkey": "a2450d009abf56cdb09c7ad244e1a0b3:3b14ccd0c29557acab36889e1f1ac353",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_687/output/dtvhindi.mpd"
+  },
+  "43": {
+    "clearkey": "19c51d7aa742540d95344f3e53016ec8:a2f949aadff6b857a273621e423b4232",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_342/output/dtvhindi.mpd"
   },
   "430": {
     "clearkey": "4d85fead0a5654419a9680718b7bc62d:8a834150098988f5457db197862a034f",
@@ -1256,12 +1676,16 @@
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_698/output/dtvhindi.mpd"
   },
   "438": {
-    "clearkey": "d757031227475bf9bca7ef6ced848818:67f4eae7638b13b52239ce38601f6404",
+    "clearkey": "3c8b128511a753d190edcb305ffc04d2:90e45841a7328b40c926ff700f1b653b",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_694/output/dtvhindi.mpd"
   },
   "439": {
-    "clearkey": "94927e8bd88257959ab7f430a6d311bb:79a39adb9b018c69d3e23cb6d8dcc477",
+    "clearkey": "db8e46a183665d8cbacea786a333c37f:fa2deeebcfd4f3106a6acac52bb65c9f",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_691/output/dtvhindi.mpd"
+  },
+  "44": {
+    "clearkey": "801c50937ace5c3386efbcc04dafa129:5909419972088738b86a5891d84cef71",
+    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_349/output/dtvhindi.mpd"
   },
   "441": {
     "clearkey": "9f3569f252ba58a593290cff8236cd61:2ab567b1b52d6283383ad3781b1f3c42",
@@ -1291,6 +1715,10 @@
     "clearkey": "4d6bd46dc0bd59089420ee2963257813:3bd104542b87b9a495c1287e509c21d7",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_692/output/dtvhindi.mpd"
   },
+  "45": {
+    "clearkey": "4cbc5e75e0fd57c28a6cedf7171231f5:b1954b430fd6f9f1bcc60f9eaa006ae5",
+    "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/dtvhindi.mpd"
+  },
   "455": {
     "clearkey": "3eb9aad310c05b358c54c622d8b5daab:5e0a0e37e7f28d55b0b013eb70ec3731",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_711/output/dtvhindi.mpd"
@@ -1300,11 +1728,11 @@
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_713/output/dtvhindi.mpd"
   },
   "457": {
-    "clearkey": "3d42a8f59df2590884162a72fcfbc3b1:ba89f1bc7321c750169604594665c4fd",
+    "clearkey": "e24149a45650588bb16f06f305b6e023:de9109f6688bfc7f8cb48984bb8fb115",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_714/output/dtvhindi.mpd"
   },
   "458": {
-    "clearkey": "5db806c9eff75b8389c4905fe160260d:9116db60a9ac4e311ffdbd2fe0a89c9c",
+    "clearkey": "0fc2d47ec43d59c9a7f985f1309b709f:77bc828ce46df48ebc22d2a9231b5e02",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_715/output/dtvhindi.mpd"
   },
   "460": {
@@ -1316,7 +1744,7 @@
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/dtvhindi.mpd"
   },
   "463": {
-    "clearkey": "d7e6be736b365fbf9813ad949d924ceb:a4b7c12c8ab694ebe9177e06509e5e4b",
+    "clearkey": "5ec8bf4d52ad59d6b9ae0e3dbc482350:1bbf8e4801004839880428c7d888bbc2",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/dtvhindi.mpd"
   },
   "464": {
@@ -1324,7 +1752,7 @@
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/dtvhindi.mpd"
   },
   "467": {
-    "clearkey": "001c7d0e989a53d9b984017abbff9111:def3bb10271719f0d617c32fd1ad0787",
+    "clearkey": "53aa6c5b7f6a582294fb59d65ccb922f:14a6938af2591928736397dc11b91b02",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_746/output/dtvhindi.mpd"
   },
   "468": {
@@ -1332,8 +1760,12 @@
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_736/output/dtvhindi.mpd"
   },
   "469": {
-    "clearkey": "17ef66bef95f5065bce60d9b9cd49810:e92cd8dcadabffe774b55d9d10ac5c6a",
+    "clearkey": "83017d0bb64c55f1b9ffd783a015a4d6:b1567ac55e4e702f0319115f9f853ce2",
     "url": "https://bpweb7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_744/output/dtvhindi.mpd"
+  },
+  "47": {
+    "clearkey": "2afb710387e05b37a8cd169f59972841:c28c024e2e9d09590dbe6644e08c5941",
+    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_371/output/dtvhindi.mpd"
   },
   "474": {
     "clearkey": "fe3ecd40907d5c5b988981671a8e0fc0:91adc5b5c07eb8de2e1a8ed48171e6fb",
@@ -1346,6 +1778,10 @@
   "477": {
     "clearkey": "77d477389cf9527fb077bfc6b29c4a5f:589065320a921a14917c2e838caae733",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_728/output/dtvhindi.mpd"
+  },
+  "48": {
+    "clearkey": "d693554d5da15686953d4b160bd82c0b:3143123e4d90419d09f585d08f4938c4",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_307/output/dtvhindi.mpd"
   },
   "480": {
     "clearkey": "ecdd43ad3bb656009bb2b84db53e135e:3883fa57b72ff817efecdf13dca8e60c",
@@ -1366,6 +1802,10 @@
   "489": {
     "clearkey": "b7b757774d09577d8e3d433b51ed760f:5ee918294601b0e209a82613a572dc6b",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_803/output/dtvhindi.mpd"
+  },
+  "49": {
+    "clearkey": "a9d291eec10f5dd3b87ee6cf41bca94a:15c021c6b1a692aab4e135de467da496",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_298/output/dtvhindi.mpd"
   },
   "490": {
     "clearkey": "5d816d347fb0518fa740cd4921c0f0d9:36741035a114a76f3e23ed771ef5308c",
@@ -1407,6 +1847,10 @@
     "clearkey": "a5cda35ffb045de1a44cc3e3ed0d4cc0:4307332173e5ae239ba90f51b52d6608",
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_673/output/dtvhindi.mpd"
   },
+  "51": {
+    "clearkey": "86ceebf5b03b593089eea1563d1ac1e1:980a32184dc910aa408494111063d656",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_351/output/dtvhindi.mpd"
+  },
   "510": {
     "clearkey": "841d06f02cfa5cc9a2fbedcc9e4743e0:34a536fccc9eaedc2869bde01c8fb66e",
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_688/output/dtvhindi.mpd"
@@ -1420,7 +1864,7 @@
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_840/output/dtvhindi.mpd"
   },
   "515": {
-    "clearkey": "0d16c2071b9d5edcae83c82a1b935fac:df188a30dd9e2cf2c7bc66e0e5688864",
+    "clearkey": "d67dba554a905c5d9c58f5a390f87fd9:091e9ff8b93c7e88c0e296004830c788",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_841/output/dtvhindi.mpd"
   },
   "516": {
@@ -1432,8 +1876,12 @@
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_843/output/dtvhindi.mpd"
   },
   "518": {
-    "clearkey": "0bce7a818c855836b1719d4bcff683a4:7b58aecd3c4cd5fc7b0a6b540a793bea",
+    "clearkey": "87bc6f2987f458db9a4af5588642d60e:3bdbff0b5c94bfdb0bc8f8fcedda153f",
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_839/output/dtvhindi.mpd"
+  },
+  "52": {
+    "clearkey": "aa9059d7600457419ca56284c626d971:6739e9bc29210843816a69d79a9687fb",
+    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/dtvhindi.mpd"
   },
   "521": {
     "clearkey": "fcd3b110063b5fcc8b1f8d0bbc90fde3:db0685e10df5d8cf6a378140002c9628",
@@ -1455,6 +1903,10 @@
     "clearkey": "17ee9873cfb75261855ea890894b1621:4a3051b86e384e8e3f9096b2ac9e9292",
     "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_372/output/dtvhindi.mpd"
   },
+  "53": {
+    "clearkey": "4c010c628005584e926ce45c1b609938:717d4e7376d56ba8f991d8e929024af6",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_384/output/dtvhindi.mpd"
+  },
   "532": {
     "clearkey": "573d2fa2315c5430a8376bdf816bab57:4d783596ef8d7b3e1d1136f03592529b",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_466/output/dtvhindi.mpd"
@@ -1464,12 +1916,16 @@
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_492/output/dtvhindi.mpd"
   },
   "537": {
-    "clearkey": "acffea799af351d98a39f8414fa26352:a7dc78fcad0373018a2374e205860892",
+    "clearkey": "8d9e5a42275d55df8859993a5c995c49:430bc6018a625ad844410afda1279a4f",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_583/output/dtvhindi.mpd"
   },
   "539": {
-    "clearkey": "fe34ec8435105603b9372d95668d78b2:6b0c35fd325a91dcd255979720c5c3d3",
+    "clearkey": "0fcbe0757a5851dbb1aa505d4d28e889:e56bf9db6a57f78400e5d347aa6915bb",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_817/output/dtvhindi.mpd"
+  },
+  "54": {
+    "clearkey": "7165084d53b050f792254455b7432972:863cac9d3ba73e781c84d8a01c762fd4",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_274/output/dtvhindi.mpd"
   },
   "540": {
     "clearkey": "a117f084dc775da882e5a24a8763af81:3f352be25abdcb67d6500ea319f43c08",
@@ -1480,11 +1936,11 @@
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_686/output/dtvhindi.mpd"
   },
   "543": {
-    "clearkey": "3f9da8e1b506504bbecf10a246becd80:63e2e94674d41c22b7c609001b22a150",
+    "clearkey": "a3edfbac6f6854abbebc7c06e4722297:4431219f3cb44413ffde990f5a6700d2",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_101/output/dtvhindi.mpd"
   },
   "544": {
-    "clearkey": "dfe4451bad8851e1a696a8ff710a01b5:ba4c81458c90af43b8be8124286f1c73",
+    "clearkey": "4561c260c9c35169ba2f4fd479288245:75aaa80cc6fc9a5c1990865fae07c16a",
     "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_202/output/dtvhindi.mpd"
   },
   "546": {
@@ -1492,15 +1948,19 @@
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_326/output/dtvhindi.mpd"
   },
   "547": {
-    "clearkey": "5208eebbc713542a84edb4e9fb0c0c04:0afdfe31e73e047595c6fb399ff5568f",
+    "clearkey": "e508bb8bfc505345b51c2f1924b81fb8:df172d532f09dc77664bf8d9a7a9252f",
     "url": "https://bpweb2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_779/output/dtvhindi.mpd"
   },
   "548": {
     "clearkey": "a6b9f9658e5052a08152f8db7b6f9c76:7793742f4daf61d29455f6fec25e9d12",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_526/output/dtvhindi.mpd"
   },
+  "55": {
+    "clearkey": "6aefc1b5baf65e7793b4017999910dac:14accdc0696ae34b3b868d7140363d3c",
+    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_366/output/dtvhindi.mpd"
+  },
   "551": {
-    "clearkey": "de5802fc9be1550db582dec828c77569:2737c55d0145ee99b79d60edf2523783",
+    "clearkey": "0acea58387dc5bbc816e6715e4f206ad:605d4ff9e02ed9fea641ef5981852e41",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_122/output/dtvhindi.mpd"
   },
   "552": {
@@ -1512,7 +1972,7 @@
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_322/output/dtvhindi.mpd"
   },
   "554": {
-    "clearkey": "5e518393009f5f5b9ff18eb4b54459a2:a801cb6857ab62e8870559272fc1fd52",
+    "clearkey": "3dc419f1f6be55c895e96de7de81f59d:3968199ad9359a00341a144f2ca084c8",
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_193/output/dtvhindi.mpd"
   },
   "555": {
@@ -1520,7 +1980,7 @@
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_766/output/dtvhindi.mpd"
   },
   "556": {
-    "clearkey": "348d7a170d4c542f858eb44afdb74def:7e1add3d911e62f734376e64f4b2fbb7",
+    "clearkey": "8979dabfde445ec493cfc5bf082c2045:97f106c6a6c04cbc47c16fc185734934",
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_125/output/dtvhindi.mpd"
   },
   "557": {
@@ -1532,8 +1992,12 @@
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_200/output/dtvhindi.mpd"
   },
   "559": {
-    "clearkey": "f517c19b13cf559885f841adc52340e9:91119948ae209f8239d8ebb06ab572b0",
+    "clearkey": "64ce952a8e3a5d9d88c7a5339e1b1ebc:ce79b1fb6509626b7619a42bc094b63d",
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/dtvhindi.mpd"
+  },
+  "56": {
+    "clearkey": "e33eaef356da51c498b99bd8ecf11091:f0193b250822b5bb57ade32feb80a156",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_386/output/dtvhindi.mpd"
   },
   "562": {
     "clearkey": "30d122db133e5eda83ed3e31d1945000:43b5f66b61562a33668bebed6a73954c",
@@ -1548,20 +2012,24 @@
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_657/output/dtvhindi.mpd"
   },
   "571": {
-    "clearkey": "8dd3ef7e4f5a58699e30ce1a741fb4fa:925103c43fb1f522eae8ef2812428423",
+    "clearkey": "eeb88f5898e250e9bab346ed5a769d38:a464870a6861320b35f9b0cbd29eded7",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_799/output/dtvhindi.mpd"
   },
   "576": {
-    "clearkey": "f0ad8b144d975b7798fdfa8b61bfd9e9:3827362bae827ed6471247f0028e2ab9",
+    "clearkey": "79060f6c56f95a0da93e97a0758fea74:48cc43ed8a9b5579c72e1a6c76bcd535",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_321/output/dtvhindi.mpd"
   },
   "577": {
-    "clearkey": "5adc46c81aea5d7687ab92c4e5654d2c:92847cc0fcf1c94fdb9f9c4d85f67c39",
+    "clearkey": "839b775c0747514cac6aaa9ea03ea0e6:b6036376ef5623c09c9cea77f8b50f65",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_719/output/dtvhindi.mpd"
   },
   "578": {
-    "clearkey": "c4d090153a955e2185877cfab0212fcd:17d8ccd1536c2a003cf7349b81b39c5d",
+    "clearkey": "82fbfc773af15685a41d5d4bf5b9fb8d:9643116812e8c02943b8f40997a871e0",
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_196/output/dtvhindi.mpd"
+  },
+  "58": {
+    "clearkey": "8626f0dd93ad5c2b91285880900ce21e:60460b51cb10d24f0a3a7470f8afa375",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_373/output/dtvhindi.mpd"
   },
   "580": {
     "clearkey": "f3981f85c0bf570f932f8e803c6d5e0a:860dc86f746ffe4a47f86c2eba75140e",
@@ -1580,7 +2048,7 @@
     "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_712/output/dtvhindi.mpd"
   },
   "587": {
-    "clearkey": "35d09807e683573889cebd1470572920:b4e1c71590961eb99c7f823aa6fa939a",
+    "clearkey": "dad77a47db0f5e41a1de8254c7c56364:349b5e875292f4f51d2c1abecfcf0ae1",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/dtvhindi.mpd"
   },
   "590": {
@@ -1607,13 +2075,25 @@
     "clearkey": "46cf6080653b5e959ca18d9b721a3a41:f8195240f29c793885c78efdee6ea7f4",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_636/output/dtvhindi.mpd"
   },
+  "6": {
+    "clearkey": "8b5ff5e980795b91ba34e6d2c6074f7e:d9e84c3a5baae1042227fe8f8ee481b2",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_291/output/dtvhindi.mpd"
+  },
+  "60": {
+    "clearkey": "b0cd1dc6d9ad523097c90ae363dac68a:b38b5ba09484905aa7e221a3e497164a",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_376/output/dtvhindi.mpd"
+  },
   "605": {
-    "clearkey": "c8fb32dd94a05aecb9a153ad0c2e8194:ba03d9311059dfb490fbe91258f38c6e",
+    "clearkey": "9d1cc5ba6c525662ba91dc38305b3b7c:229a817ae51b7a7eeaeb95cf7ee20351",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/dtvhindi.mpd"
   },
   "608": {
     "clearkey": "dd71bca3303a5b96b7385e6f9e49561c:302a0490d72f341b59138542d42fc927",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_842/output/dtvhindi.mpd"
+  },
+  "61": {
+    "clearkey": "1b87a22beb145103adc5cd3f683cb2bf:5f9c1f4b39043dd347f20275ab2ae09a",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_385/output/dtvhindi.mpd"
   },
   "611": {
     "clearkey": "9f13713b0c9f57b7b3a42e030da49ce0:a80800809cfa10bd395c9bcfc6e4c537",
@@ -1648,12 +2128,16 @@
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_860/output/dtvhindi.mpd"
   },
   "627": {
-    "clearkey": "35869b0260b35399a2b01398ed8a1c33:0d8b1065b381498b98d91b227b2d1176",
+    "clearkey": "3af29a6c6ebe5436b3ee7485accddecb:b1b6e2c4f90b713595922d8f3deea134",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_861/output/dtvhindi.mpd"
   },
   "629": {
     "clearkey": "15e3473fe85c5ddc823f92416e76d8ab:77f5f3dce5a6775ff09408cfe47a228f",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_863/output/dtvhindi.mpd"
+  },
+  "63": {
+    "clearkey": "026231d7630b57d6b5c10a371294c37c:ae78d2d55d5e682e910d5e2c1e57732c",
+    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/dtvhindi.mpd"
   },
   "630": {
     "clearkey": "2ae7a2d8b34757d78e8199f014c22dab:5725130b7b330caee7673ebf7fcb4f2d",
@@ -1664,7 +2148,7 @@
     "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
   },
   "633": {
-    "clearkey": "0ceb3d2581725877a3437d99b66a96fc:4002e3573360e97a2abcb8bdc17aca68",
+    "clearkey": "5389e3fffc265380bfa94e8507efd960:eed3acf5cf141bd6cdafb2d7824e977e",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_867/output/dtvhindi.mpd"
   },
   "635": {
@@ -1679,6 +2163,10 @@
     "clearkey": "738db4890bbb59548340787960c6c363:3e4d852276b23d087cbabe6cc3442914",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_874/output/dtvhindi.mpd"
   },
+  "64": {
+    "clearkey": "daedd4cce91f5e9b9fd71ad9c249d8eb:5750525e04a29093e8cf5ae78cff1e95",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_387/output/dtvhindi.mpd"
+  },
   "641": {
     "clearkey": "f4d961655fb751e7bdb634d935e6384e:a3b045624e2a98a039181eb3e6aea6f5",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_876/output/dtvhindi.mpd"
@@ -1692,7 +2180,7 @@
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_880/output/dtvhindi.mpd"
   },
   "646": {
-    "clearkey": "35248ae3bf0c52d4b9c0d4c61bce34ab:50c76dd2c08da211548e60164fad4e28",
+    "clearkey": "9a223464eb7c52b29d62b5418083cdb7:640fd4cdc1fbca8bc6a9add766f11be2",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_881/output/dtvhindi.mpd"
   },
   "647": {
@@ -1702,6 +2190,10 @@
   "648": {
     "clearkey": "1bcf34ba91e256c3b1c941acde36b6b1:631c595c6c5d098ffe62dcf143400988",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_477/output/dtvhindi.mpd"
+  },
+  "65": {
+    "clearkey": "9f7923615dcc5ef0a089cb6cf3db96a8:9cf783eeb4a72248853df1d647d19131",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_377/output/dtvhindi.mpd"
   },
   "650": {
     "clearkey": "b8097383dc77596c8ca4dee109ae73ee:7facf0041332b80f98137bc024aee32c",
@@ -1723,6 +2215,10 @@
     "clearkey": "f8511ba2347c5bf9b3cfc93f512ef99a:ed6f3502b2c44c6f07b9c94e43b3a90d",
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_815/output/dtvhindi.mpd"
   },
+  "66": {
+    "clearkey": "6b1da1af518755f48d5887f59173e974:5e45032bef3b75ba120d59cd2b93824e",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_374/output/dtvhindi.mpd"
+  },
   "660": {
     "clearkey": "9a40e7a1076b5e64a6e79ecae788425c:83a92ba5daa16fd94026dcb3ab9a2db9",
     "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_893/output/dtvhindi.mpd"
@@ -1740,7 +2236,7 @@
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_900/output/dtvhindi.mpd"
   },
   "674": {
-    "clearkey": "327b9c041d1455508ff7cba8de6ddffc:b7685ba7c9ba7763d8a0914e0fa0f42b",
+    "clearkey": "df618118d5f857459eac052d1d5392d3:510fe29b4143ca7bb142bb7ea293de1d",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_916/output/dtvhindi.mpd"
   },
   "675": {
@@ -1751,8 +2247,12 @@
     "clearkey": "e45586137313549a8d3e7be77ce35261:2ec549b9ccd9cd2daea571080dd56273",
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_902/output/dtvhindi.mpd"
   },
+  "68": {
+    "clearkey": "e8fdb31484e1594fbf952abc7bbcf825:1c883fe9724d1e5afe4765cefb1c300a",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_375/output/dtvhindi.mpd"
+  },
   "681": {
-    "clearkey": "3e58c82f219f53b38c64dc46b52d0514:4c4b691675ffdbace54867b421751784",
+    "clearkey": "a58af1515bd35b54aad9a4d219e8ff29:7227c406d816905972d8a164aa51dd9f",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/dtvhindi.mpd"
   },
   "684": {
@@ -1768,7 +2268,7 @@
     "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_930/output/dtvhindi.mpd"
   },
   "691": {
-    "clearkey": "d8d0b50df43a592eb7e4d7ad9309c77c:40ca024010be5cc48f8812a7285b6a78",
+    "clearkey": "aa79d959e25753dc8e8372a269742f82:8c2b9d97986a2310229411c0596a689b",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_932/output/dtvhindi.mpd"
   },
   "692": {
@@ -1791,6 +2291,10 @@
     "clearkey": "52910b655dc759b088f9656a3ba6b520:753bcece5a7f315ad0c5d62ac49175d7",
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_939/output/dtvhindi.mpd"
   },
+  "7": {
+    "clearkey": "0d3e3517fac95a7fb3921f1ae71976c0:3ec487e7f1e4fe4dab1d225e9a43cd25",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_276/output/dtvhindi.mpd"
+  },
   "701": {
     "clearkey": "a46fa048665e5fefbb2fa455beff19c9:76e55e91c074600d52d5494300201af0",
     "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_941/output/dtvhindi.mpd"
@@ -1804,11 +2308,19 @@
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_945/output/dtvhindi.mpd"
   },
   "708": {
-    "clearkey": "723b50c321425fef92fbfd0b66938dcc:59f6f6d5e30d38d971df6610fc5fca51",
+    "clearkey": "3c2897ab82ba50a4973ac3e6be8f2430:f5b498245b6599f2d168e27ad3a9319f",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_947/output/dtvhindi.mpd"
   },
+  "71": {
+    "clearkey": "70275da590635d03802d2064aceb8900:50ba269f501838804447aa3b5ef2f7f3",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_396/output/dtvhindi.mpd"
+  },
+  "72": {
+    "clearkey": ":",
+    "url": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-380287/dtvhindi.mpd"
+  },
   "723": {
-    "clearkey": "4a9031d6ce1a599cb99f1a1585e357ee:0d55ef69453b53ffd2d482cf661eed94",
+    "clearkey": "cbfce8b06a71521abe6542a2d3db1f8b:7bc0cb15b5cec78d4ee1f30b8291d082",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_954/output/dtvhindi.mpd"
   },
   "727": {
@@ -1822,6 +2334,10 @@
   "729": {
     "clearkey": "aab25450a3a25854b47cc33482a7cc7b:ba72a5ddad609c90dc9a6a65466a816d",
     "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_959/output/dtvhindi.mpd"
+  },
+  "73": {
+    "clearkey": "485e647bf46d59599633cbe295a744ab:2f537df0acef4f65eff9523f9ff29bf6",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_378/output/dtvhindi.mpd"
   },
   "730": {
     "clearkey": "db5957f3cfde548da38eec1fb3027d6f:31b5945c8bf7146344cdfc21365f73fa",
@@ -1859,6 +2375,10 @@
     "clearkey": "6f29c30d49645397828342fc3e47d5d6:8364a81f6203b5ca76f439167f24d050",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_969/output/dtvhindi.mpd"
   },
+  "78": {
+    "clearkey": "c988283db71b5579996fdd95a8a8ff9c:49da2b0cc732d1fa9f53719b7810555c",
+    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/dtvhindi.mpd"
+  },
   "781": {
     "clearkey": ":",
     "url": "https://cable21tataplay.akamaized.net/prudentm.m3u8"
@@ -1880,12 +2400,16 @@
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_979/output/dtvhindi.mpd"
   },
   "788": {
-    "clearkey": "63feba845c8a5bd4a55bbb165bb35d41:9e99bedb5a9faf383b29d82e06381bef",
+    "clearkey": "3482cf82d9f057e9ac4797ce2895ede2:e9f01e168d9470f86c71edd4912f3a29",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_978/output/dtvhindi.mpd"
   },
   "789": {
     "clearkey": "6ba80037365f5c41b4913284c6459d58:77874fea321fb2848770d83ee1061af2",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_980/output/dtvhindi.mpd"
+  },
+  "79": {
+    "clearkey": "bbfae31dc5c35b9ea48c0dc4859a443c:0dbf800274740c251a17b64b01ea9043",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_352/output/dtvhindi.mpd"
   },
   "790": {
     "clearkey": "ec7c5057c72c40799e2bcbe639aac541:af9cbaaf07705ef8bf30effa4888d62c",
@@ -1900,7 +2424,7 @@
     "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_984/output/dtvhindi.mpd"
   },
   "794": {
-    "clearkey": "eb033301957e5988a8a12cb454577044:af77fa2df6bfde565869fb112e0bd482",
+    "clearkey": "6e566a1ccfe25909bf62b38be6cee23b:e83eaee5f34bfeab5fc60cec7b0b9a39",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_985/output/dtvhindi.mpd"
   },
   "796": {
@@ -1915,8 +2439,16 @@
     "clearkey": "463f43333afe5d44881a6689b067ff6b:f073fffa95cdf4cbaf6bba5dbee42e76",
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_990/output/dtvhindi.mpd"
   },
+  "8": {
+    "clearkey": "8dbcdcc0c80157ccaa58897c206b8226:8f022e8fe3248d76ebe929c2cd0a6d3e",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/dtvhindi.mpd"
+  },
+  "80": {
+    "clearkey": "741531eb7abd5c94a2e6a6970aa571dc:0946a555c43c452c4a5ae65f2fcbe0b3",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_305/output/dtvhindi.mpd"
+  },
   "800": {
-    "clearkey": "452766bb52ce59228eff423130ea560c:489ddd3f00923e7cef9144ed1a6ea508",
+    "clearkey": "69acca6cbacf52ac98ef3348fe3c33af:c629ea59c9a5c769fc797ef27b7ca3c5",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_991/output/dtvhindi.mpd"
   },
   "802": {
@@ -1935,6 +2467,10 @@
     "clearkey": "b35ecb374fd55f8f9be1a3025d51f1e9:138297315ed4e72e92fa7deb0d414026",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_998/output/dtvhindi.mpd"
   },
+  "81": {
+    "clearkey": "bd1331d221515c3abae34f315f4fb84b:bb0c91311b3c84eff5dc9ea9dfc4aae4",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/dtvhindi.mpd"
+  },
   "810": {
     "clearkey": "dbbc374461345b99a6ea52a09ebe754b:858c87a2689b5f7018b5dfeb19a79595",
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1000/output/dtvhindi.mpd"
@@ -1944,7 +2480,7 @@
     "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1108/output/dtvhindi.mpd"
   },
   "812": {
-    "clearkey": "52d67964475054de9e706b4678bd5b46:91d2494089a4b63fa6b75234547d7ee5",
+    "clearkey": "c6127e37f5b550f89921e12032f4ebec:7d4efd8044944b407de2c23b3a4d83df",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/dtvhindi.mpd"
   },
   "814": {
@@ -1952,7 +2488,7 @@
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1111/output/dtvhindi.mpd"
   },
   "816": {
-    "clearkey": "431e8725b27d5691a75cc49727f5a4cd:561d9f8ccb0f22cf2db367e6e2fa8149",
+    "clearkey": "eedef6db92045a2b83e091f8b3b4913a:754cabab8623b1becda82c6fb751891e",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1112/output/dtvhindi.mpd"
   },
   "818": {
@@ -1983,8 +2519,12 @@
     "clearkey": "9225f534fe8e5701b57656146c3beebb:3916073fd5e3ce083ce1d40eb8dbc90b",
     "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1122/output/dtvhindi.mpd"
   },
+  "83": {
+    "clearkey": "488afb4e76c853c78cd3de4ca7719f01:ff988e293b9b98c9e80db934330acd5a",
+    "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_296/output/dtvhindi.mpd"
+  },
   "830": {
-    "clearkey": "a0212e5ae22b58868a8bffbe8f808a5d:ef038515fcfd64287f1a4fe7d397cfd6",
+    "clearkey": "4f2d9ed1b4515fecbc2d2ef773e94769:0d0929d0104a12dae3605c89b2aa7e25",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1126/output/dtvhindi.mpd"
   },
   "831": {
@@ -2019,6 +2559,10 @@
     "clearkey": "1c95a8590e0d4beaae0e83492bab72ce:c2ed68c2bf6f2bddb0a28070e86e6250",
     "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
   },
+  "85": {
+    "clearkey": "15fd2a094be959aaa5574769b272d0db:ccfc9f940ebc8ac827fd9aa429556bcb",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_229/output/dtvhindi.mpd"
+  },
   "865": {
     "clearkey": "a17bee13b09540edb0412f1d7f12196b:901cdf97762f3d542758ca5b6750d52f",
     "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
@@ -2031,8 +2575,12 @@
     "clearkey": "48992b9082b657a19fdbe643a9a1adc7:07f26e415c57869da536c6271604c3bc",
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1143/output/dtvhindi.mpd"
   },
+  "87": {
+    "clearkey": "2c351067cd0d59938b599a63d7cc5a60:8e12e1f5441bca851f79b1b21572b8ec",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_244/output/dtvhindi.mpd"
+  },
   "870": {
-    "clearkey": "2ab56d9089c65335bc6a9334f38d98e6:e8e1bd01b76dff82505f630770e66f26",
+    "clearkey": "55453ff0ffdc57468818ebbf77fb1d7c:ccf2287e48c249f9ccce9d7afc763eae",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1147/output/dtvhindi.mpd"
   },
   "872": {
@@ -2046,6 +2594,10 @@
   "874": {
     "clearkey": ":",
     "url": "https://bpweb1catchup.akamaized.net/out/i/dtvhindi.mpd"
+  },
+  "88": {
+    "clearkey": "e1739f3de82b5219852533e8b7a81523:65618fe62865cce35a152af427785169",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_163/output/dtvhindi.mpd"
   },
   "883": {
     "clearkey": ":",
@@ -2072,11 +2624,11 @@
     "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
   },
   "894": {
-    "clearkey": "47aa19e88b885951a012ebe1cd9e4cdf:4b7bd79b594cc970940fb3264c1e5e8a",
+    "clearkey": "bc6cac1f370b56b6a8ca9ff21af6b2c4:d8178173a240299b80b6e9e6cc0372bc",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1303/output/dtvhindi.mpd"
   },
   "896": {
-    "clearkey": "a59b7b5b7ef4578d94697eb8adb39800:9bbd64af4523837eaf9aa867644a6d90",
+    "clearkey": "2ae05ce8efb950cea0e53cf88196f41f:ee28cb5b5b586931e7f490e0723fde48",
     "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1305/output/dtvhindi.mpd"
   },
   "898": {
@@ -2087,17 +2639,29 @@
     "clearkey": "57a753f62a445e7ea84e99b742cb27a7:5279d0e2d01c185e2c329bc5fa393662",
     "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1309/output/dtvhindi.mpd"
   },
+  "9": {
+    "clearkey": "51c87d0698f957838782244beef6432e:7d5aaf3d1bcc2a3e8b5f67b3aa40c9c2",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_277/output/dtvhindi.mpd"
+  },
+  "90": {
+    "clearkey": "37c484955c4f57e7897d69a0c7bdc913:bd8f31ed38056ee17e855abcf588b299",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_162/output/dtvhindi.mpd"
+  },
   "902": {
-    "clearkey": "30ea1dd76c0d5c7fa3ab189140a206b3:30eb2c1e8dc1da68b73efc7e9a1febef",
+    "clearkey": "4deba5248d095c57831bd612d0958edd:aa25569f2b0befcb644fe0468d2e448d",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1310/output/dtvhindi.mpd"
   },
   "905": {
-    "clearkey": "ebaefdb75f69506299a34da18e23e1ac:cde2c06e595270a484abed10a8d8d3e9",
+    "clearkey": "f3491175e2b459a58d7af24f49a39146:3732c70c88a1182feaad7e4a0dc9db1b",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1311/output/dtvhindi.mpd"
   },
   "907": {
     "clearkey": "f8e97c0ebdc052d294c0f972c5fcb630:cdb4586cb4d66940d3fb5323287cd91b",
     "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1314/output/dtvhindi.mpd"
+  },
+  "91": {
+    "clearkey": "49e598ac1eb650b79e259667e9833174:4504a8dacc9255924f6826d5bf6a5438",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_246/output/dtvhindi.mpd"
   },
   "910": {
     "clearkey": ":",
@@ -2115,6 +2679,10 @@
     "clearkey": "da4d789757595bf98dba0e35d3d8b866:61fe635ce31b78b7c614b81e78fbf1f3",
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1320/output/dtvhindi.mpd"
   },
+  "92": {
+    "clearkey": "3077344570285218b27893c1833a6f31:12fe9b5b7b496c902a5ca9c7285d5d1b",
+    "url": "https://bpweb7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_245/output/dtvhindi.mpd"
+  },
   "922": {
     "clearkey": "f0e2fd873d97557d8202817d3af8e7a8:e8ecb8122d8bcf1cb1b20e0fa4eb2840",
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1322/output/dtvhindi.mpd"
@@ -2124,12 +2692,16 @@
     "url": "https://bpprodtestcatchup.akamaized.net/out/i/968284.m3u8"
   },
   "928": {
-    "clearkey": "395553489a56552881a2d06aa807d0f7:7b4bb94cabb10bb9e496addaec24dfd1",
+    "clearkey": "5b2cf06eb84d505ab412157f3f74f582:dcc9658052d3e923733df0bd3812b0da",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1323/output/dtvhindi.mpd"
   },
   "929": {
-    "clearkey": "fb981af2d0d95748ba88ba0f2df2408f:d62ec742e054273299596234dd6ef5a0",
+    "clearkey": "6b90198ece6c5c899e21306cd32aaa5f:392946ea4e158c075c2b1325037a27da",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1324/output/dtvhindi.mpd"
+  },
+  "93": {
+    "clearkey": "f7043bd1997e55fbbfc275bbd2e3bf45:602a237ac2b93fb54f6c7fb947c14a6d",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_110/output/dtvhindi.mpd"
   },
   "930": {
     "clearkey": "9b1c5eedbf7d4bbc9bcbd38673feae76:4bdf42d25e0d14cf134252ba6f360b5e",
@@ -2175,6 +2747,10 @@
     "clearkey": "d5d63b0a03024c3f9905d98d9a6861cf:5e929e34c5cd4e4745fe388a281250c0",
     "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
   },
+  "95": {
+    "clearkey": "882d2021fe0a5e0699f6242839702e21:db5d766553b2866a8441c4c3c58a2bca",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_192/output/dtvhindi.mpd"
+  },
   "950": {
     "clearkey": "e00d8ad1b98a5a41941fea8faff09ad5:a737b48b380c9e912a60a7ecb36a39f4",
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1781/output/dtvhindi.mpd"
@@ -2199,6 +2775,10 @@
     "clearkey": "2a28e99dc52852cd910eac766569b542:494209618a29b31c2b2e6e34e7536b23",
     "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1785/output/dtvhindi.mpd"
   },
+  "96": {
+    "clearkey": "191ce43ad77a57e781d97163581a2903:0722440e76081c7a82ce43eed4e65e6e",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_164/output/dtvhindi.mpd"
+  },
   "960": {
     "clearkey": ":",
     "url": "https://cable27tataplay.akamaized.net/atmadarshan/atmadarshan/index.m3u8"
@@ -2212,7 +2792,7 @@
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1790/output/dtvhindi.mpd"
   },
   "965": {
-    "clearkey": "e380c1ea3ed2503883a0db25ccffc4ba:2abe4591a8610e224d82907cde3b5355",
+    "clearkey": "471fd274355354f694192433a491042f:075aeb911a31ac8db50d824bf2692bba",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1793/output/dtvhindi.mpd"
   },
   "966": {
@@ -2220,19 +2800,23 @@
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1791/output/dtvhindi.mpd"
   },
   "968": {
-    "clearkey": "2db9f8385f5e5a0cbfd1cba05a3e1383:c7773eda64688a201c00da390194c1eb",
+    "clearkey": "2d0c14f63ae554f8b2041355af13ea7f:a6c7dc4da82e8f4038b692e1bf83e530",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1794/output/dtvhindi.mpd"
   },
   "969": {
-    "clearkey": "db2207cd25325205b663542de2ca8a37:832e7d6b16c557846efea85580d4f912",
+    "clearkey": "2be6d6b7ffb552afabcd3ca9af3a4781:96c20f123af56f5914353fd4591f432c",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1799/output/dtvhindi.mpd"
   },
+  "97": {
+    "clearkey": "96a68295c8f652aab1bf615830e0501f:bede5523cd1dbf049b3555a9676b9d1e",
+    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_364/output/dtvhindi.mpd"
+  },
   "970": {
-    "clearkey": "afd7748d2c725e7d802b4637abb8e933:bf3dfed1158536f7b5dc6e516a7710cb",
+    "clearkey": "521ba3280e1e5039b95f4fe2f086cf13:33913244fbbe9d160a1364da09663147",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1800/output/dtvhindi.mpd"
   },
   "971": {
-    "clearkey": "7d17f0d9c5795b09ae0b2201852a8a6c:88ea12ed9360e07f64612d88796230ab",
+    "clearkey": "3975739aaa00535383c9124f495c7034:94f124e0264b4069de97ee2f07899734",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1798/output/dtvhindi.mpd"
   },
   "972": {
@@ -2240,43 +2824,51 @@
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1801/output/dtvhindi.mpd"
   },
   "973": {
-    "clearkey": "513f9482aa0a553683ee7dc290e3a90a:5b4743575c0b2bf9e309d78b1b5a41bd",
+    "clearkey": "f46b3a48b108524fa94e9dadc275747a:83b926dcfcb052f36f6c4ce476459850",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1802/output/dtvhindi.mpd"
   },
   "974": {
-    "clearkey": "ef7d3426a774524fbecd7459c5970d33:768c8666cca2b232b8cf2e78efb49f6f",
+    "clearkey": "0846b243532550d792b61ed6798f9e6c:2f5dbf33552c19d7d1516e2e01cdf804",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1803/output/dtvhindi.mpd"
   },
   "976": {
-    "clearkey": "53f888db035e50deb54bffca3a2e6c6c:08467df5847e78d2ae53783e615b2ed7",
+    "clearkey": "dc0143dda6d15154bc67b0ae3b724c93:9fe835754a1c9d73f5cca8cfe1b03947",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1804/output/dtvhindi.mpd"
   },
   "977": {
-    "clearkey": "df1155ca3fc85369b74fd7a849aa927c:831a34994b2c4d1120b6c5a01cfe3398",
+    "clearkey": "86f1594d6be95cc4aec3575e4ffa5418:af12b0864b0f1e4de3cdfcac18142b34",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1806/output/dtvhindi.mpd"
   },
   "978": {
     "clearkey": "003116c08a175d77bf0b30d365c694bd:50b665ead9b1f983b1f3f31fe82e756c",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1808/output/dtvhindi.mpd"
   },
+  "98": {
+    "clearkey": "827e9bfcbb3557119f09e8328ed3a7e0:f3efaafcac7dd8accf739e47d425f039",
+    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_238/output/dtvhindi.mpd"
+  },
   "980": {
-    "clearkey": "84d0b7c912905ebcbaa84a39dac5bbe9:3cdcdf10a1df28e19d3a39f109909f62",
+    "clearkey": "820dbb1f055a5d3e92cc602265ad3257:8853b7ce02963c6a3563dbae9b422062",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/dtvhindi.mpd"
   },
   "986": {
-    "clearkey": "c9295445656d5b659c6b00da4d576a59:3c39f76533b554797ebcdd41317c2228",
+    "clearkey": "57b9562df3dc592da14d06ba0ae8e893:e64ab63e0381618099d4793c7b009b33",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1813/output/dtvhindi.mpd"
   },
   "988": {
-    "clearkey": "8ce79213ce6e538ba389fa6254e95c89:4b4cfb3d9b6dd76e5dca1a8a1682201d",
+    "clearkey": "0d0c5a9dc41156e98702c09cb61ee23e:fb7ec85762bc67e3e563443cb0790a91",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1814/output/dtvhindi.mpd"
   },
   "989": {
-    "clearkey": "4e4b5c6bd62753ceabb1281d889c1ff1:a6b71ca4d5285eb81391ff7fe1e2e29a",
+    "clearkey": "5786f136abaf50fdbd3ffb0e50998348:4ce0d377220e03a7da353f636f565079",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1817/output/dtvhindi.mpd"
   },
+  "99": {
+    "clearkey": "9fa8edd73ec65c0fba340dbc179b15d0:16f5c0e21a5609d9e4a292c41be5a927",
+    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_234/output/dtvhindi.mpd"
+  },
   "991": {
-    "clearkey": "877d4eb0a60e5b46ad210ebe0d97cfd7:2ae16b02c1ac8971794615c2bc2ea617",
+    "clearkey": "9789d6c485de5b48878abb544e8c96d6:9c1803d12b1a88778710aa34a77d6f74",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1819/output/dtvhindi.mpd"
   },
   "993": {
@@ -2288,11 +2880,11 @@
     "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1821/output/dtvhindi.mpd"
   },
   "995": {
-    "clearkey": "7930a65d64a85cbc802eaaad6f3da0d6:e25f8d17d0f39c3ef2f0b0241d29554c",
+    "clearkey": "efadf25e97a255e888dbd661214a2104:2f8c729966661050d7d43022a53d6cc7",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1823/output/dtvhindi.mpd"
   },
   "996": {
-    "clearkey": "3ce75451570151549dbb23d1c50bb3d5:cc792d1881313a28cf5b4f2fb2e23148",
+    "clearkey": "5eb34615fd435dad8fbd5ecf464e0ffa:e4b1b270a518d962ebabf3301dedc1c9",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1822/output/dtvhindi.mpd"
   },
   "997": {
@@ -2306,597 +2898,5 @@
   "999": {
     "clearkey": "ffdec1edfce0432ba38dc523a1ccfd99:dfb153ae7851be2daa7e983c9c6553eb",
     "url": "https://bpprod14catchup.akamaized.net/out/i/dtvhindi.mpd"
-  },
-  "1000": {
-    "clearkey": "03ac394ac60b5d9782d58fc666b5638a:46a4154971702e1539ca7cd62518ccbb",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1827/output/dtvhindi.mpd"
-  },
-  "1002": {
-    "clearkey": ":",
-    "url": "https://server.thelegitpro.in/saileelatv/saileelatv/index.m3u8"
-  },
-  "1003": {
-    "clearkey": "f1561ea038bf5bf5b1cc33815ceb494e:353b7c38dcd64d108eb232cf1398a9a1",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1829/output/dtvhindi.mpd"
-  },
-  "1004": {
-    "clearkey": "b01f062c5c9243059204b361123678fb:fa7103f124f2b29bf0a4e0c3dca4df21",
-    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
-  },
-  "1005": {
-    "clearkey": "ccfb4918b1864491a1672c5df94857a6:3426d6b2dc5b3888b8c1dfc2d47cbf73",
-    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
-  },
-  "1006": {
-    "clearkey": "d30658dae8284ba1936568cab4dba1a6:425645793c6f46dd43c5937e79ccb880",
-    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
-  },
-  "1007": {
-    "clearkey": "6bd64f4be838483f96531c699902686e:17e9c9d4c333e544554a06ac530877b5",
-    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
-  },
-  "1008": {
-    "clearkey": "0d5cf9203a5a4cc79199d627c9c75f1f:720a6d5715d1ef228d07f95c4db23adf",
-    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
-  },
-  "1009": {
-    "clearkey": "19c7d24c5d6f51c3add5b702d40ce37a:e998942eccda95ccf2f144f60ec97b2e",
-    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1837/output/dtvhindi.mpd"
-  },
-  "1010": {
-    "clearkey": "69006d7337fb5069b51a89dd6d387f7c:513f06ab2a152939c9a22ca05906efeb",
-    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1836/output/dtvhindi.mpd"
-  },
-  "1018": {
-    "clearkey": ":",
-    "url": "https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8"
-  },
-  "1019": {
-    "clearkey": "90784876590b42efa1732770100ae411:04947be5d5fcb5152e517b3d88a45620",
-    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
-  },
-  "1023": {
-    "clearkey": "c101049be3624d73bc55f8178307bfca:ec6106ead7a78125c2971730880d6712",
-    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
-  },
-  "1027": {
-    "clearkey": "2c489b4502665727aacf4c890cccbde8:681590a7cc2dfad2bcda7d0295c3f117",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1849/output/dtvhindi.mpd"
-  },
-  "1031": {
-    "clearkey": "4d1ccdd7cc7553ec9def2e74534863cb:6d1a374f5d98b609aabceb7789c893a9",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1842/output/dtvhindi.mpd"
-  },
-  "1033": {
-    "clearkey": "3f2493bd6ef05921acacbd74b58ebf60:4796e71c1b7454a744c526cdad8ed800",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/dtvhindi.mpd"
-  },
-  "1040": {
-    "clearkey": ":",
-    "url": "https://jansetutataplay.akamaized.net/hls10/jansetunews/index.m3u8"
-  },
-  "1042": {
-    "clearkey": ":",
-    "url": "https://blesstvtataplay.akamaized.net/blesstv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
-  },
-  "1043": {
-    "clearkey": ":",
-    "url": "https://ott.livelegitpro.in/nakshatradigital/nakshatradigital/video.m3u8"
-  },
-  "1044": {
-    "clearkey": ":",
-    "url": "https://globalindia.akamaized.net/globalindiatv/globalindiatv/index.m3u8"
-  },
-  "1045": {
-    "clearkey": "18542ce169db5215a4799551180058bf:c689353ab72fbb0a009fe4cd05d31f8a",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1865/output/dtvhindi.mpd"
-  },
-  "1051": {
-    "clearkey": "d64825c492085838a1a4d9eb3087efff:98ae780f0c569d4d6fd5b7fe88230549",
-    "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1867/output/dtvhindi.mpd"
-  },
-  "1056": {
-    "clearkey": "0282c25f344c57a483e19b78333dc7c4:b6ef024bfd68e5e7b03be59552826be7",
-    "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1874/output/dtvhindi.mpd"
-  },
-  "1058": {
-    "clearkey": ":",
-    "url": "https://cable14tataplay.akamaized.net/aajkikhabar/aajkikhabar/index.m3u8"
-  },
-  "1059": {
-    "clearkey": ":",
-    "url": "https://cable12tataplay.akamaized.net/indiannews/index.m3u8"
-  },
-  "1060": {
-    "clearkey": ":",
-    "url": "https://cable15tataplay.akamaized.net/livepunjabi/livepunjabi/index.m3u8"
-  },
-  "1070": {
-    "clearkey": "f0ff467c0efc4dfea225150c4a4747f2:767ebb6cdf7bab364b967d167558d714",
-    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
-  },
-  "1073": {
-    "clearkey": "d8d08a1fbd30521e8641a2b33f26deb6:31ee243ef338353e8b42b82905e4d52d",
-    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1887/output/dtvhindi.mpd"
-  },
-  "1074": {
-    "clearkey": "66544328f46d52968fab9a50aa1ea008:6891087cb2b0b17b5821e7ae65eff53e",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1889/output/dtvhindi.mpd"
-  },
-  "1075": {
-    "clearkey": "fa30b7c9712f5864b9240d4340a7a88a:5ad163915be90a248ce1b6b6c4890820",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1888/output/dtvhindi.mpd"
-  },
-  "1076": {
-    "clearkey": "9865aff8e80d58128aca6a763499c44a:3135f709f078074fe4dfaf760db5ba92",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1890/output/dtvhindi.mpd"
-  },
-  "1077": {
-    "clearkey": "c76bbd3415245638a75c7951db0057dc:081b374ec56c95af2b6d349b319eb588",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1891/output/dtvhindi.mpd"
-  },
-  "1078": {
-    "clearkey": "8952cc90e74e59c49ecd0b65a01bea16:e95bbc9fc782362f746d8d99d319f4a1",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1892/output/dtvhindi.mpd"
-  },
-  "1079": {
-    "clearkey": "7840d753b71a45f3847e89b09714fef6:9ed8838b3d1cf97f3b567db508fc6dcc",
-    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
-  },
-  "1080": {
-    "clearkey": ":",
-    "url": "https://ubangla.akamaized.net/hls/ubangla.m3u8"
-  },
-  "1082": {
-    "clearkey": "ede46383ffb55de9a914d6962ce47a8a:385a71c9b9ce5a5d55abf8580b312915",
-    "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1896/output/dtvhindi.mpd"
-  },
-  "1083": {
-    "clearkey": "35c36dec50a252e58d82eb448b728e95:bbe8e1c95749cdacf66d777ea845391c",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1895/output/dtvhindi.mpd"
-  },
-  "1084": {
-    "clearkey": "0ac37cd6ae8e509e8258f47a09fee78d:896f4dc5aedfc76f5636ba9a6312b2b8",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1897/output/dtvhindi.mpd"
-  },
-  "1097": {
-    "clearkey": "7677407a65315ce39e0edc741f20bc03:d883b9e3fb99ba545cdd2d1478c5ef93",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1908/output/dtvhindi.mpd"
-  },
-  "1099": {
-    "clearkey": "d32d8d181ce05c79a1c8e2cdca7f7037:a75b97069937c722ac85ff7f6a31e860",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1910/output/dtvhindi.mpd"
-  },
-  "1100": {
-    "clearkey": "69dcb277deba59d0948643ad798a1216:0be2a04d8e4852f41cba4ab48031a932",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1909/output/dtvhindi.mpd"
-  },
-  "1101": {
-    "clearkey": "53b05b54fe275beb9f6cc2bc5b0b2729:ddadd2935a31b7c0cfc98e67c4ab4f2b",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1914/output/dtvhindi.mpd"
-  },
-  "1102": {
-    "clearkey": "aaab005c654b58e8b034e09348d4b818:d71e776ca19ed7e30853daa967165a70",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1915/output/dtvhindi.mpd"
-  },
-  "1103": {
-    "clearkey": "8a5ca0cc92975c56a62071d5d5b50a61:755ea6af0ccc449aa5da6ded210a8d4a",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1916/output/dtvhindi.mpd"
-  },
-  "1115": {
-    "clearkey": "34de2a11cb4b55e8a76ba6fda8464859:adbbcd0c3946a394406ecc16262e2509",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1918/output/dtvhindi.mpd"
-  },
-  "1118": {
-    "clearkey": "9968c85a818d5e1780819423ef18303e:c2f3933b9dc451a8acad13398b0a7512",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1920/output/dtvhindi.mpd"
-  },
-  "1124": {
-    "clearkey": "ac3a927cf5895712b8b7f489224470cc:a318483858dd915d8eebd9bb643515a1",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1922/output/dtvhindi.mpd"
-  },
-  "1130": {
-    "clearkey": "0b4b413c3cb45388ad6d924652382036:b7b634dc90c54aad830704d068ac1417",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1924/output/dtvhindi.mpd"
-  },
-  "1132": {
-    "clearkey": "3014c581d52352a7a587e5c5f74d369c:365d275818e28ce1f9aca8d95a4e49a7",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1926/output/dtvhindi.mpd"
-  },
-  "1136": {
-    "clearkey": "32c470dfd0bc5490ac854fccd69dd457:f54333cfbc5c015844746d2240e0dae2",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1930/output/dtvhindi.mpd"
-  },
-  "1151": {
-    "clearkey": "668bb0755cd65e40b4ac634b25f51642:6ff6138189f0db56a38340118e21c097",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1923/output/dtvhindi.mpd"
-  },
-  "1152": {
-    "clearkey": "85d7dea72d4b5e93923713ce84181b9e:809cb4ecc709ad0983cc4561d4264ce1",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1942/output/dtvhindi.mpd"
-  },
-  "1159": {
-    "clearkey": "77807ab8a13f5a77a0892ffaab29a884:9e0c9579dd261ebda23e2629eb6d5962",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1943/output/dtvhindi.mpd"
-  },
-  "1161": {
-    "clearkey": "8ca12578e524544688cb8c810d9a3ebb:7be8f41b6c28757944ae84e25a336263",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1944/output/dtvhindi.mpd"
-  },
-  "1165": {
-    "clearkey": "68c701a69e4b5dba8106698fbfbe027e:81922b8e561f98229d283546dfdb4afd",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1947/output/dtvhindi.mpd"
-  },
-  "1167": {
-    "clearkey": "07062db056b14a819ddf64152184bc03:9ea0ec35f48bcc846c5b68bc069a3450",
-    "url": "https://bpprod13catchup.akamaized.net/out/i/dtvhindi.mpd"
-  },
-  "1168": {
-    "clearkey": "f62acfb238e746a58ed8ee9ad33e6874:e1ee9ad35a083774ae8c2b3d3a41242e",
-    "url": "https://bpprod13catchup.akamaized.net/out/i/dtvhindi.mpd"
-  },
-  "1169": {
-    "clearkey": "b95693929ff958a69e0761493a5a9358:a6f2dfd6b58745aacb32f979aef22858",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1951/output/dtvhindi.mpd"
-  },
-  "1170": {
-    "clearkey": "3a4b0850eb9054959be06d3114c2e518:36daf23314c69eb412e98e4fce4a027d",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1952/output/dtvhindi.mpd"
-  },
-  "1171": {
-    "clearkey": "c9d5abce19f94974af94d7bba057b9e1:c3687c67cc8fee1e8f6e0df6a4560903",
-    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
-  },
-  "1181": {
-    "clearkey": "2f711dae27a85d9f9092fc9e2066e1b9:ce20cb8e809241c2fd23ba4d54468ff3",
-    "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1960/output/dtvhindi.mpd"
-  },
-  "1182": {
-    "clearkey": "c3298e01b8c65dd88ff00beccef3f47c:f9af1a04590fa1fceca9d7d9f276e244",
-    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1962/output/dtvhindi.mpd"
-  },
-  "1183": {
-    "clearkey": "1b22e5b6baa753e2b225a8858d433d96:ddf41e32699e718093b09940530ad1fc",
-    "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1963/output/dtvhindi.mpd"
-  },
-  "1188": {
-    "clearkey": ":",
-    "url": "https://bpprod.tatasky.net/bpk-tv/irdeto_com_Channel_1967/output/dtvhindi.mpd"
-  },
-  "1194": {
-    "clearkey": "c3ee3f9fbe5456bf89d9ee237f227ebb:b7f05089a607d3949a8b4c290cd04285",
-    "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1968/output/dtvhindi.mpd"
-  },
-  "1196": {
-    "clearkey": ":",
-    "url": "https://cable31tataplay.akamaized.net/bharat/bharat/dtvhindi.mpd"
-  },
-  "1197": {
-    "clearkey": ":",
-    "url": "https://cable33tataplay.akamaized.net/nilachakra/nilachakra/dtvhindi.mpd"
-  },
-  "1198": {
-    "clearkey": ":",
-    "url": "https://cable35tataplay.akamaized.net/cynema/cynema/dtvhindi.mpd"
-  },
-  "1199": {
-    "clearkey": ":",
-    "url": "https://cable37tataplay.akamaized.net/musiq/musiq/dtvhindi.mpd"
-  },
-  "1200": {
-    "clearkey": ":",
-    "url": "https://cable39tataplay.akamaized.net/jatra/jatra/dtvhindi.mpd"
-  },
-  "1201": {
-    "clearkey": ":",
-    "url": "https://cable41tataplay.akamaized.net/paramatma/paramatma/dtvhindi.mpd"
-  },
-  "1202": {
-    "clearkey": ":",
-    "url": "https://cable43tataplay.akamaized.net/onepaschima/onepaschima/dtvhindi.mpd"
-  },
-  "1203": {
-    "clearkey": ":",
-    "url": "https://cable45tataplay.akamaized.net/india24x7/india24x7/dtvhindi.mpd"
-  },
-  "1204": {
-    "clearkey": ":",
-    "url": "https://cable47tataplay.akamaized.net/citymusic/citymusic/dtvhindi.mpd"
-  },
-  "1205": {
-    "clearkey": ":",
-    "url": "https://cable49tataplay.akamaized.net/omm/omm/dtvhindi.mpd"
-  },
-  "1206": {
-    "clearkey": ":",
-    "url": "https://cable51tataplay.akamaized.net/baiscope/baiscope/dtvhindi.mpd"
-  },
-  "1207": {
-    "clearkey": ":",
-    "url": "https://cable53tataplay.akamaized.net/manoranjan/manoranjan/dtvhindi.mpd"
-  },
-  "1208": {
-    "clearkey": ":",
-    "url": "https://cable55tataplay.akamaized.net/halchal/halchal/dtvhindi.mpd"
-  },
-  "1209": {
-    "clearkey": ":",
-    "url": "https://cable57tataplay.akamaized.net/snews/snews/dtvhindi.mpd"
-  },
-  "1242": {
-    "clearkey": ":",
-    "url": "https://cable62tataplay.akamaized.net/in24news/in24news/dtvhindi.mpd"
-  },
-  "1245": {
-    "clearkey": ":",
-    "url": "https://cable59tataplay.akamaized.net/cmaf/nationaltoday24/dtvhindi.mpd"
-  },
-  "1246": {
-    "clearkey": ":",
-    "url": "https://cable60tataplay.akamaized.net/vandebharat/vandebharat/dtvhindi.mpd"
-  },
-  "1247": {
-    "clearkey": ":",
-    "url": "https://cable63tataplay.akamaized.net/live6/35mm/dtvhindi.mpd"
-  },
-  "1252": {
-    "clearkey": ":",
-    "url": "https://cable68tataplay.akamaized.net/HaryanaBuzz/myStream/dtvhindi.mpd"
-  },
-  "1253": {
-    "clearkey": ":",
-    "url": "https://cable69tataplay.akamaized.net/JeewanBhakti/myStream/dtvhindi.mpd"
-  },
-  "1254": {
-    "clearkey": ":",
-    "url": "https://cable65tataplay.akamaized.net/NationalNewsLive/myStream/dtvhindi.mpd"
-  },
-  "1255": {
-    "clearkey": ":",
-    "url": "https://cable66tataplay.akamaized.net/UpdateIndia/myStream/dtvhindi.mpd"
-  },
-  "1256": {
-    "clearkey": ":",
-    "url": "https://cable67tataplay.akamaized.net/OyeMusic/myStream/dtvhindi.mpd"
-  },
-  "1257": {
-    "clearkey": ":",
-    "url": "https://stream.mediasolution.cloud:8088/dash/dtvhindi.mpd"
-  },
-  "1258": {
-    "clearkey": "63f19143d4be5544bed8f8173729875c:2736b4f969aedda7c9065cc5ce426e66",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2045/output/dtvhindi.mpd"
-  },
-  "1260": {
-    "clearkey": "4d17392f509a506b8ed8f469dfdbcb91:158a233ed193f18840c47b27bd45e3e2",
-    "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2047/output/dtvhindi.mpd"
-  },
-  "1267": {
-    "clearkey": "b3bb33d598145852852ab0060bfb41fd:a303ce4a05b169ff4af0d9df800a2844",
-    "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2051/output/dtvhindi.mpd"
-  },
-  "1268": {
-    "clearkey": "b440ab2b602d59fab8da661abaeab467:fd39bb1542d4678967d20161b84b16bb",
-    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2050/output/dtvhindi.mpd"
-  },
-  "1269": {
-    "clearkey": "7b3c52df06065b5c8168ebb93204c6d1:60b98789125242084c971d895805e2f4",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2052/output/dtvhindi.mpd"
-  },
-  "1274": {
-    "clearkey": "79de9bde282656fc90fff53452fc8f28:8d6dc7e68b8fe2f07a403614320de451",
-    "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2055/output/dtvhindi.mpd"
-  },
-  "1276": {
-    "clearkey": "5728f25981f252619f702d1ff39c53a3:01241fe74ea685a19eb537dbdedb5e03",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2056/output/dtvhindi.mpd"
-  },
-  "1277": {
-    "clearkey": ":",
-    "url": "https://cable72tataplay.akamaized.net/navtejtv/navtejtv/dtvhindi.mpd"
-  },
-  "1278": {
-    "clearkey": ":",
-    "url": "https://cable71tataplay.akamaized.net/primetv/primetv/dtvhindi.mpd"
-  },
-  "1281": {
-    "clearkey": ":",
-    "url": "https://cable73tataplay.akamaized.net/samachar24/samachar24/dtvhindi.mpd"
-  },
-  "1284": {
-    "clearkey": ":",
-    "url": "https://cable74tataplay.akamaized.net/dash/dtvhindi.mpd"
-  },
-  "1285": {
-    "clearkey": ":",
-    "url": "https://cable75tataplay.akamaized.net/dash/dtvhindi.mpd"
-  },
-  "1286": {
-    "clearkey": "295e0c8a138b58e593fcbca839e44a97:a88f045a207bfebadd92b1f7a431d128",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2063/output/dtvhindi.mpd"
-  },
-  "1287": {
-    "clearkey": "467f5fa0645d54cc92bb257d6278bfa6:cec1cd0746a024ec5a25ad5d09a572b8",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2064/output/dtvhindi.mpd"
-  },
-  "1288": {
-    "clearkey": "5263fc0e7682533090066352f31a242c:c7f1d451a25e021c1ae421e3b0af4230",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2065/output/dtvhindi.mpd"
-  },
-  "1290": {
-    "clearkey": "805e7c10c60c4ec9a075de2150caac9a:5d6154f4c398f4d280555cf61181f73c",
-    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
-  },
-  "1299": {
-    "clearkey": ":",
-    "url": "https://bpprod.tatasky.net/bpk-tv/irdeto_com_Channel_2077/output/dtvhindi.mpd"
-  },
-  "1313": {
-    "clearkey": "9db1986ac60a5ceb9a09f4779bc34b5c:f3e2f69da3ef2489600266748ead493a",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2079/output/dtvhindi.mpd"
-  },
-  "1315": {
-    "clearkey": "d17c192d058a595d905f94b81ad43173:269e736711895b01c27f433e30af154c",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2084/output/dtvhindi.mpd"
-  },
-  "1317": {
-    "clearkey": "e8f1eeffad01513bbaca3d0524b39090:ba28547f12bd0ff05c0f74e7c6c5c615",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2085/output/dtvhindi.mpd"
-  },
-  "1321": {
-    "clearkey": "78dca1a15d6658d2b2b11d8a73907221:7ed711daa3bd86d9da1bf7eeb9fa444b",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2089/output/dtvhindi.mpd"
-  },
-  "1322": {
-    "clearkey": "1bf2f64568ba5f8db0290773a81f90a4:e9ff0a4a5ec7f153e145f9041f7dd50e",
-    "url": "https://bpweb5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2090/output/dtvhindi.mpd"
-  },
-  "1332": {
-    "clearkey": ":",
-    "url": "https://cable79tataplay.akamaized.net/abnews/abnews/dtvhindi.mpd"
-  },
-  "1333": {
-    "clearkey": ":",
-    "url": "https://cable80tataplay.akamaized.net/abcnews/abcnews/dtvhindi.mpd"
-  },
-  "1334": {
-    "clearkey": ":",
-    "url": "https://cable81tataplay.akamaized.net/kbcnews/kbcnews/dtvhindi.mpd"
-  },
-  "1335": {
-    "clearkey": ":",
-    "url": "https://cable83tataplay.akamaized.net/shikshatvhd/shikshatvhd/playlist.m3u8"
-  },
-  "1336": {
-    "clearkey": ":",
-    "url": "https://cable76tataplay.akamaized.net/shresthbharat/shresthbharat/dtvhindi.mpd"
-  },
-  "1337": {
-    "clearkey": ":",
-    "url": "https://legitpro.co.in/live7/sristitv/dtvhindi.mpd"
-  },
-  "1338": {
-    "clearkey": ":",
-    "url": "https://cable82tataplay.akamaized.net/bnews24/bnews24/dtvhindi.mpd"
-  },
-  "1339": {
-    "clearkey": ":",
-    "url": "https://cable77tataplay.akamaized.net/tnpnews/tnpnews/dtvhindi.mpd"
-  },
-  "1340": {
-    "clearkey": "87a7cec1ecb45d289bcbc535621b9028:aa9611f20fab833e0a065e51489505ac",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2104/output/dtvhindi.mpd"
-  },
-  "1341": {
-    "clearkey": "f247501a30855016a0cfc43931907754:8f9b36aba6f3e18beaf7ea58b82bb9d2",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2102/output/dtvhindi.mpd"
-  },
-  "1342": {
-    "clearkey": "2f21fd62aa5653769a3ba87f144dbf8c:63d9c67f0572ab58e18eae3361ceb7fc",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2103/output/dtvhindi.mpd"
-  },
-  "1343": {
-    "clearkey": "96a4626a0e6a5f999cf3e2a7f67ab971:30905fe91bc71ff43b8fc384cc330e61",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2100/output/dtvhindi.mpd"
-  },
-  "1344": {
-    "clearkey": "5bbd5d2dfd6a562bb118d84ba8297403:857178da271938a745439265f7e298e7",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2101/output/dtvhindi.mpd"
-  },
-  "1349": {
-    "clearkey": "4f13e76df320419daf31cf057e83c0d4:036519085abc1f5e8537c64a0fbf07a3",
-    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
-  },
-  "1350": {
-    "clearkey": "63d4a91a604c405eb23c444c01e85e8d:6c3652d9a8d773d7e50c0e30ad42ee04",
-    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
-  },
-  "1351": {
-    "clearkey": "78231f5fb2ab4c0a867886d221c75447:4c6afe10935f23ae5c1b83066ef68533",
-    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
-  },
-  "1352": {
-    "clearkey": "bec1011c94335a89a76f8aa61c7cc544:3c6dff3a0684d1c46d7ab07434d8f375",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2113/output/dtvhindi.mpd"
-  },
-  "1353": {
-    "clearkey": "03486142b3f75184bb2c6e2a89598126:51edcc6b6e8421615e98130db358bb47",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2114/output/dtvhindi.mpd"
-  },
-  "1363": {
-    "clearkey": "2b09b21fec31592cbda48fe86ca35939:5887b690a9cf9b8dd34c49b22454a853",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2115/output/dtvhindi.mpd"
-  },
-  "1371": {
-    "clearkey": "c283cd6c9ea049fd87f5875bbe386c44:72650790c568271d329fc5945fa35e4c",
-    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
-  },
-  "1372": {
-    "clearkey": "6cf0469281b74057979f752b50d28ea8:a5801feba5c183fce18b4d9b033c996e",
-    "url": "https://bpprod45catchup.akamaized.net/out/i/dtvhindi.mpd"
-  },
-  "1376": {
-    "clearkey": "138dd407eb465908bda75aae209f445d:ca0ab07607e321dd720e3bfa76210896",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2135/output/dtvhindi.mpd"
-  },
-  "1378": {
-    "clearkey": "e3e5cc4c9c54592bbe7f9765405c14e5:032df2c12cfdfdfd4246afb6f059f774",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2136/output/dtvhindi.mpd"
-  },
-  "1379": {
-    "clearkey": ":",
-    "url": "https://cable94tataplay.akamaized.net/hls/btimenews.m3u8"
-  },
-  "1380": {
-    "clearkey": ":",
-    "url": "https://cable93tataplay.akamaized.net/news21/news21/dtvhindi.mpd"
-  },
-  "1381": {
-    "clearkey": ":",
-    "url": "https://cable88tataplay.akamaized.net/live/anandhamtv/dtvhindi.mpd"
-  },
-  "1382": {
-    "clearkey": ":",
-    "url": "https://cable91tataplay.akamaized.net/live/dharshantv/dtvhindi.mpd"
-  },
-  "1383": {
-    "clearkey": ":",
-    "url": "https://cable90tataplay.akamaized.net/live/nijamtv/dtvhindi.mpd"
-  },
-  "1384": {
-    "clearkey": ":",
-    "url": "https://cable86tataplay.akamaized.net/live/suriyantv/dtvhindi.mpd"
-  },
-  "1385": {
-    "clearkey": ":",
-    "url": "https://cable87tataplay.akamaized.net/live/subintv/dtvhindi.mpd"
-  },
-  "1386": {
-    "clearkey": ":",
-    "url": "https://cable85tataplay.akamaized.net/live/ntvpkt/dtvhindi.mpd"
-  },
-  "1387": {
-    "clearkey": ":",
-    "url": "https://cable89tataplay.akamaized.net/live/rtv/dtvhindi.mpd"
-  },
-  "1388": {
-    "clearkey": ":",
-    "url": "https://cable92tataplay.akamaized.net/live/utv/dtvhindi.mpd"
-  },
-  "1389": {
-    "clearkey": "a4cf56e34a31539db4d1d8664fdea6e1:7ee305002f1791755e0b264eb4893e26",
-    "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_2139/output/dtvhindi.mpd"
-  },
-  "1391": {
-    "clearkey": ":",
-    "url": "https://server.thelegitpro.in/bhakthisiri/bhakthisiri/dtvhindi.mpd"
-  },
-  "1392": {
-    "clearkey": ":",
-    "url": "https://server.thelegitpro.in/sadvidya/sadvidya/dtvhindi.mpd"
-  },
-  "1393": {
-    "clearkey": ":",
-    "url": "https://cable11catchup.akamaized.net/dtvhindi.mpd"
   }
 }
